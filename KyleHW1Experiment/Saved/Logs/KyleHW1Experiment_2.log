@@ -840,3 +840,264 @@ Recommended: 30.0.101.1340
 [2022.10.15-21.19.54:429][881]AssetCheck: New page: Asset Save: Minimal_Default
 [2022.10.15-21.19.54:429][881]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
 [2022.10.15-21.20.02:002][977]LogDerivedDataCache: C:/Users/joyma/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.026 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.15-21.22.28:895][759]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Tile.Tile
+[2022.10.15-21.22.28:896][759]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.15-21.22.29:818][759]LogSlate: Took 0.001034 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.10.15-21.22.36:831][456]LogViewport: Scene viewport resized to 1141x877, mode Windowed.
+[2022.10.15-21.22.50:707][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Tile" FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/Blueprints/Tile.uasset" SILENT=true
+[2022.10.15-21.22.50:714][168]LogSavePackage: Moving output files for package: /Game/Blueprints/Tile
+[2022.10.15-21.22.50:714][168]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Saved/Tile0C7F1F0C49127235FC83DB9AD1CD5ABB.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/Blueprints/Tile.uasset'
+[2022.10.15-21.22.50:727][168]AssetCheck: New page: Asset Save: Tile
+[2022.10.15-21.22.50:727][168]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Tile.Tile
+[2022.10.15-21.24.16:152][188]Cmd: EDIT COPY
+[2022.10.15-21.24.16:420][198]Cmd: EDIT PASTE
+[2022.10.15-21.24.22:744][422]Cmd: EDIT COPY
+[2022.10.15-21.24.22:937][429]Cmd: EDIT PASTE
+[2022.10.15-21.24.33:323][791]Cmd: EDIT COPY
+[2022.10.15-21.24.33:635][802]Cmd: EDIT PASTE
+[2022.10.15-21.24.44:129][154]Cmd: EDIT COPY
+[2022.10.15-21.24.44:337][161]Cmd: EDIT PASTE
+[2022.10.15-21.24.55:853][542]Cmd: ACTOR SELECT OFCLASS CLASS=Tile_C
+[2022.10.15-21.25.26:356][559]Cmd: TRANSACTION UNDO
+[2022.10.15-21.25.26:356][559]LogEditorTransaction: Undo Clicking on Actors
+[2022.10.15-21.25.27:562][593]Cmd: TRANSACTION UNDO
+[2022.10.15-21.25.27:562][593]LogEditorTransaction: Undo Move World Outliner Items
+[2022.10.15-21.25.31:607][730]Cmd: TRANSACTION UNDO
+[2022.10.15-21.25.31:607][730]LogEditorTransaction: Undo Clicking on Actors
+[2022.10.15-21.25.33:106][774]Cmd: TRANSACTION UNDO
+[2022.10.15-21.25.33:106][774]LogEditorTransaction: Undo Rename Folder
+[2022.10.15-21.25.34:980][838]Cmd: TRANSACTION UNDO
+[2022.10.15-21.25.34:980][838]LogEditorTransaction: Undo Create Folder
+[2022.10.15-21.25.50:055][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.10.15-21.25.50:083][329]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default
+[2022.10.15-21.25.50:084][329]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Saved/Minimal_DefaultEC1641F34601776F525559BE7D6595DA.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.10.15-21.25.50:106][329]AssetCheck: New page: Asset Save: Minimal_Default
+[2022.10.15-21.25.50:106][329]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.10.15-21.25.52:240][397]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.15-21.25.52:249][397]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.10.15-21.25.52:251][397]LogPlayLevel: [PlayLevel] Compiling Tile before play...
+[2022.10.15-21.25.52:413][397]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.10.15-21.25.52:415][397]LogPlayLevel: PlayLevel: Blueprint regeneration took 165 ms (1 blueprints)
+[2022.10.15-21.25.52:415][397]PIE: New page: PIE session: Minimal_Default (Oct 15, 2022, 9:25:52 AM)
+[2022.10.15-21.25.52:415][397]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.10.15-21.25.52:422][397]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007105s)
+[2022.10.15-21.25.52:422][397]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.007189s)
+[2022.10.15-21.25.52:422][397]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.15-21.25.52:422][397]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.15-21.25.52:423][397]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.10.15-21.25.52:423][397]LogPlayLevel: PIE: World Init took: (0.000957s)
+[2022.10.15-21.25.52:454][397]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.10.15-21.25.52:455][397]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.10.15-21.25.52:455][397]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.15-21.25.52:455][397]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.15-21.25.52:455][397]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.15-21.25.52:455][397]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.15-21.25.52:455][397]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.15-21.25.52:455][397]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.15-21.25.52:455][397]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.15-21.25.52:455][397]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.15-21.25.52:455][397]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.15-21.25.52:455][397]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.15-21.25.52:455][397]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.15-21.25.52:457][397]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.15-21.25.52:515][397]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2022.10.15-21.25.52:516][397]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.15-21.25.52:516][397]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.15-21.25.52:516][397]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.15-21.25.52:516][397]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.10.15-21.25.52:516][397]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.10.15-21.25.52:518][397]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.10.15-21.25.52:518][397]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.10.15-21.25.52:518][397]LogInit: FAudioDevice initialized.
+[2022.10.15-21.25.52:518][397]LogAudio: Display: Audio Device (ID: 3) registered with world 'Minimal_Default'.
+[2022.10.15-21.25.52:529][397]LogLoad: Game class is 'GM_BallGame_C'
+[2022.10.15-21.25.52:530][397]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.10.15-15.25.52
+[2022.10.15-21.25.52:531][397]LogWorld: Bringing up level for play took: 0.001980
+[2022.10.15-21.25.52:533][397]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2022.10.15-21.25.52:534][397]PIE: Server logged in
+[2022.10.15-21.25.52:534][397]PIE: Play in editor total start time 0.286 seconds.
+[2022.10.15-21.25.54:993][484]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-0.000 Y=-40.000 Z=-0.000
+[2022.10.15-21.25.55:018][485]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-0.000 Y=-40.000 Z=-0.000
+[2022.10.15-21.25.55:075][486]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-0.000 Y=-40.000 Z=-0.000
+[2022.10.15-21.25.55:085][487]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-0.000 Y=-40.000 Z=-0.000
+[2022.10.15-21.25.55:111][488]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-0.000 Y=-40.000 Z=-0.000
+[2022.10.15-21.25.55:135][489]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-0.000 Y=-40.000 Z=-0.000
+[2022.10.15-21.25.55:160][490]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-0.000 Y=-40.000 Z=-0.000
+[2022.10.15-21.25.55:187][491]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-0.000 Y=-40.000 Z=-0.000
+[2022.10.15-21.25.55:210][492]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-0.000 Y=-40.000 Z=-0.000
+[2022.10.15-21.25.55:235][493]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-0.000 Y=-40.000 Z=-0.000
+[2022.10.15-21.25.55:259][494]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-0.000 Y=-40.000 Z=-0.000
+[2022.10.15-21.25.55:285][495]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-0.000 Y=-40.000 Z=-0.000
+[2022.10.15-21.25.55:308][496]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-0.000 Y=-40.000 Z=-0.000
+[2022.10.15-21.25.55:336][497]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-0.000 Y=-40.000 Z=-0.000
+[2022.10.15-21.25.55:360][498]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-0.000 Y=-40.000 Z=-0.000
+[2022.10.15-21.25.55:385][499]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-0.000 Y=-40.000 Z=-0.000
+[2022.10.15-21.25.55:413][500]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-0.000 Y=-40.000 Z=-0.000
+[2022.10.15-21.25.55:438][501]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-0.000 Y=-40.000 Z=-0.000
+[2022.10.15-21.25.55:462][502]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-0.000 Y=-40.000 Z=-0.000
+[2022.10.15-21.25.55:487][503]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-0.000 Y=-40.000 Z=-0.000
+[2022.10.15-21.25.55:515][504]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-0.000 Y=-40.000 Z=-0.000
+[2022.10.15-21.25.56:974][564]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-40.000 Y=0.000 Z=0.000
+[2022.10.15-21.25.56:994][565]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-40.000 Y=0.000 Z=0.000
+[2022.10.15-21.25.57:017][566]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-40.000 Y=0.000 Z=0.000
+[2022.10.15-21.25.57:039][567]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-40.000 Y=0.000 Z=0.000
+[2022.10.15-21.25.57:064][568]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-40.000 Y=0.000 Z=0.000
+[2022.10.15-21.25.57:273][577]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.57:296][578]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.57:318][579]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.57:339][580]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.57:363][581]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.57:383][582]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.57:404][583]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.57:424][584]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.57:446][585]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.57:467][586]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.57:488][587]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.57:509][588]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.57:532][589]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.57:552][590]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.57:573][591]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.57:595][592]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.57:618][593]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.57:638][594]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.57:660][595]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.57:660][595]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-40.000 Y=0.000 Z=0.000
+[2022.10.15-21.25.57:681][596]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.57:681][596]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-40.000 Y=0.000 Z=0.000
+[2022.10.15-21.25.57:702][597]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.57:702][597]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-40.000 Y=0.000 Z=0.000
+[2022.10.15-21.25.57:724][598]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.57:724][598]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-40.000 Y=0.000 Z=0.000
+[2022.10.15-21.25.57:746][599]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.57:746][599]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-40.000 Y=0.000 Z=0.000
+[2022.10.15-21.25.57:768][600]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.57:768][600]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-40.000 Y=0.000 Z=0.000
+[2022.10.15-21.25.57:787][601]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.57:788][601]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-40.000 Y=0.000 Z=0.000
+[2022.10.15-21.25.57:810][602]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.57:810][602]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-40.000 Y=0.000 Z=0.000
+[2022.10.15-21.25.57:833][603]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.57:833][603]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-40.000 Y=0.000 Z=0.000
+[2022.10.15-21.25.57:853][604]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.57:876][605]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.57:899][606]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.57:920][607]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.57:943][608]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.57:966][609]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.57:987][610]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.58:011][611]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.58:035][612]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.58:056][613]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.58:082][614]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.58:104][615]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.58:127][616]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.58:149][617]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.58:171][618]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.58:194][619]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.58:217][620]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.58:239][621]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.58:262][622]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.58:262][622]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=40.000 Y=-0.000 Z=-0.000
+[2022.10.15-21.25.58:283][623]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.58:284][623]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=40.000 Y=-0.000 Z=-0.000
+[2022.10.15-21.25.58:305][624]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.58:305][624]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=40.000 Y=-0.000 Z=-0.000
+[2022.10.15-21.25.58:327][625]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.58:327][625]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=40.000 Y=-0.000 Z=-0.000
+[2022.10.15-21.25.58:351][626]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.58:351][626]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=40.000 Y=-0.000 Z=-0.000
+[2022.10.15-21.25.58:372][627]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.58:372][627]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=40.000 Y=-0.000 Z=-0.000
+[2022.10.15-21.25.58:394][628]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.58:394][628]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=40.000 Y=-0.000 Z=-0.000
+[2022.10.15-21.25.58:417][629]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.58:417][629]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=40.000 Y=-0.000 Z=-0.000
+[2022.10.15-21.25.58:438][630]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.58:438][630]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=40.000 Y=-0.000 Z=-0.000
+[2022.10.15-21.25.58:460][631]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.58:460][631]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=40.000 Y=-0.000 Z=-0.000
+[2022.10.15-21.25.58:482][632]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.58:482][632]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=40.000 Y=-0.000 Z=-0.000
+[2022.10.15-21.25.58:504][633]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.58:504][633]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=40.000 Y=-0.000 Z=-0.000
+[2022.10.15-21.25.58:526][634]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.58:526][634]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=40.000 Y=-0.000 Z=-0.000
+[2022.10.15-21.25.58:548][635]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.58:548][635]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=40.000 Y=-0.000 Z=-0.000
+[2022.10.15-21.25.58:570][636]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.58:570][636]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=40.000 Y=-0.000 Z=-0.000
+[2022.10.15-21.25.58:591][637]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.58:591][637]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=40.000 Y=-0.000 Z=-0.000
+[2022.10.15-21.25.58:614][638]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.58:614][638]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=40.000 Y=-0.000 Z=-0.000
+[2022.10.15-21.25.58:637][639]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.58:637][639]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=40.000 Y=-0.000 Z=-0.000
+[2022.10.15-21.25.58:658][640]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.58:658][640]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=40.000 Y=-0.000 Z=-0.000
+[2022.10.15-21.25.58:681][641]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.58:681][641]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=40.000 Y=-0.000 Z=-0.000
+[2022.10.15-21.25.58:704][642]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.58:725][643]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.58:748][644]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.58:770][645]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.58:792][646]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.58:816][647]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.58:837][648]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.58:859][649]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.58:882][650]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.58:904][651]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.58:927][652]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.58:951][653]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.58:972][654]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.58:997][655]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.59:020][656]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.59:043][657]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.59:067][658]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.59:088][659]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.59:113][660]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.59:137][661]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=0.000 Y=40.000 Z=0.000
+[2022.10.15-21.25.59:528][677]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=40.000 Y=-0.000 Z=-0.000
+[2022.10.15-21.25.59:553][678]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=40.000 Y=-0.000 Z=-0.000
+[2022.10.15-21.25.59:579][679]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=40.000 Y=-0.000 Z=-0.000
+[2022.10.15-21.25.59:602][680]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=40.000 Y=-0.000 Z=-0.000
+[2022.10.15-21.25.59:628][681]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=40.000 Y=-0.000 Z=-0.000
+[2022.10.15-21.25.59:655][682]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=40.000 Y=-0.000 Z=-0.000
+[2022.10.15-21.25.59:680][683]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=40.000 Y=-0.000 Z=-0.000
+[2022.10.15-21.25.59:705][684]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=40.000 Y=-0.000 Z=-0.000
+[2022.10.15-21.25.59:859][690]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-0.000 Y=-40.000 Z=-0.000
+[2022.10.15-21.25.59:883][691]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-0.000 Y=-40.000 Z=-0.000
+[2022.10.15-21.25.59:908][692]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-0.000 Y=-40.000 Z=-0.000
+[2022.10.15-21.25.59:934][693]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-0.000 Y=-40.000 Z=-0.000
+[2022.10.15-21.25.59:958][694]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-0.000 Y=-40.000 Z=-0.000
+[2022.10.15-21.25.59:984][695]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-0.000 Y=-40.000 Z=-0.000
+[2022.10.15-21.26.00:009][696]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-0.000 Y=-40.000 Z=-0.000
+[2022.10.15-21.26.00:038][697]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-0.000 Y=-40.000 Z=-0.000
+[2022.10.15-21.26.00:064][698]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-0.000 Y=-40.000 Z=-0.000
+[2022.10.15-21.26.00:120][700]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-0.000 Y=-40.000 Z=-0.000
+[2022.10.15-21.26.00:148][701]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-0.000 Y=-40.000 Z=-0.000
+[2022.10.15-21.26.00:174][702]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-0.000 Y=-40.000 Z=-0.000
+[2022.10.15-21.26.00:199][703]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-0.000 Y=-40.000 Z=-0.000
+[2022.10.15-21.26.00:225][704]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-0.000 Y=-40.000 Z=-0.000
+[2022.10.15-21.26.00:251][705]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-0.000 Y=-40.000 Z=-0.000
+[2022.10.15-21.26.00:279][706]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-0.000 Y=-40.000 Z=-0.000
+[2022.10.15-21.26.00:306][707]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-0.000 Y=-40.000 Z=-0.000
+[2022.10.15-21.26.00:336][708]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-0.000 Y=-40.000 Z=-0.000
+[2022.10.15-21.26.00:363][709]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-0.000 Y=-40.000 Z=-0.000
+[2022.10.15-21.26.00:390][710]LogBlueprintUserMessages: [PC_PlayerBall_C_0] Moved Forward with Torque Vector: X=-0.000 Y=-40.000 Z=-0.000
+[2022.10.15-21.26.00:963][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-21.26.00:963][730]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.10.15-21.26.00:963][730]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.10.15-21.26.00:964][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.15-21.26.00:998][730]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.15-21.26.01:013][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.15-21.26.01:054][730]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.15-21.26.01:054][730]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.10.15-21.26.01:057][730]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.10.15-21.26.01:069][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-21.26.01:072][730]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.10.15-21.26.01:113][731]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.10.15-21.26.10:283][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.10.15-21.26.10:309][985]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default
+[2022.10.15-21.26.10:310][985]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Saved/Minimal_Default65081A5840F5CEA62958B0843FCC15AA.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.10.15-21.26.10:328][985]AssetCheck: New page: Asset Save: Minimal_Default
+[2022.10.15-21.26.10:328][985]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
