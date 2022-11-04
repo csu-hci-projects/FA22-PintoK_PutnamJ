@@ -5463,3 +5463,669 @@ Recommended: 30.0.101.1340
 [2022.11.04-15.51.38:958][393]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Saved/Level05EB114024BF9F38468A474A0639B6C73.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/Maps/Level0.umap'
 [2022.11.04-15.51.38:987][393]AssetCheck: New page: Asset Save: Level0
 [2022.11.04-15.51.38:987][393]LogContentValidation: Display: Validating World /Game/Maps/Level0.Level0
+[2022.11.04-15.53.15:086][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.11.04-15.53.15:182][144]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level1.Level1
+[2022.11.04-15.53.15:183][144]Cmd: MAP LOAD FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.04-15.53.15:183][144]LightingResults: New page: Lighting Build
+[2022.11.04-15.53.15:183][144]LoadErrors: New page: Loading map: Level1.umap
+[2022.11.04-15.53.15:190][144]LogWorld: UWorld::CleanupWorld for Level0, bSessionEnded=true, bCleanupResources=true
+[2022.11.04-15.53.15:190][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.04-15.53.15:190][144]MapCheck: New page: Map Check
+[2022.11.04-15.53.15:190][144]LightingResults: New page: Lighting Build
+[2022.11.04-15.53.15:227][144]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.04-15.53.15:243][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.11.04-15.53.15:248][144]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.11.04-15.53.15:250][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.04-15.53.15:251][144]LogWorld: UWorld::CleanupWorld for Level0_Auto1, bSessionEnded=true, bCleanupResources=true
+[2022.11.04-15.53.15:251][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.04-15.53.15:252][144]LogWorld: UWorld::CleanupWorld for Level0_Auto2, bSessionEnded=true, bCleanupResources=true
+[2022.11.04-15.53.15:252][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.04-15.53.15:295][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.11.04-15.53.15:333][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.11.04-15.53.15:351][144]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2022.11.04-15.53.15:351][144]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.04-15.53.15:351][144]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.04-15.53.15:352][144]LogAIModule: Creating AISystem for world Level1
+[2022.11.04-15.53.15:403][144]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.04-15.53.15:443][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.11.04-15.53.15:451][144]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.04-15.53.15:451][144]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.114ms to complete.
+[2022.11.04-15.53.15:451][144]LogFileHelpers: Loading map 'Level1' took 0.269
+[2022.11.04-15.54.01:767][414]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.11.04-15.54.01:824][414]LogSavePackage: Moving output files for package: /Game/Maps/Level1
+[2022.11.04-15.54.01:825][414]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Saved/Level186C5D7D54B7DDF5352AE899908303EF5.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/Maps/Level1.umap'
+[2022.11.04-15.54.01:855][414]AssetCheck: New page: Asset Save: Level1
+[2022.11.04-15.54.01:855][414]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2022.11.04-15.54.30:534][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.11.04-15.54.30:579][243]LogSavePackage: Moving output files for package: /Game/Maps/Level1
+[2022.11.04-15.54.30:580][243]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Saved/Level192016ED34EDA49FD4DEE4CAA3E4A88CF.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/Maps/Level1.umap'
+[2022.11.04-15.54.30:608][243]AssetCheck: New page: Asset Save: Level1
+[2022.11.04-15.54.30:608][243]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2022.11.04-15.54.47:461][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.11.04-15.54.47:505][731]LogSavePackage: Moving output files for package: /Game/Maps/Level1
+[2022.11.04-15.54.47:505][731]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Saved/Level138D1F644464CFCE9A20AE481478833D5.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/Maps/Level1.umap'
+[2022.11.04-15.54.47:534][731]AssetCheck: New page: Asset Save: Level1
+[2022.11.04-15.54.47:534][731]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2022.11.04-15.55.42:349][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.11.04-15.55.42:376][210]LogSavePackage: Moving output files for package: /Game/Maps/Level1
+[2022.11.04-15.55.42:378][210]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Saved/Level15DA08755400CC99AF734AAB78F1B7BED.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/Maps/Level1.umap'
+[2022.11.04-15.55.42:396][210]AssetCheck: New page: Asset Save: Level1
+[2022.11.04-15.55.42:396][210]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2022.11.04-15.56.11:036][ 82]Cmd: EDIT COPY
+[2022.11.04-15.56.11:646][101]Cmd: EDIT PASTE
+[2022.11.04-15.56.20:170][361]Cmd: EDIT COPY
+[2022.11.04-15.56.20:468][368]Cmd: EDIT PASTE
+[2022.11.04-15.56.34:849][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.11.04-15.56.34:901][804]LogSavePackage: Moving output files for package: /Game/Maps/Level1
+[2022.11.04-15.56.34:902][804]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Saved/Level1278334624869BBD459FF438744D94795.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/Maps/Level1.umap'
+[2022.11.04-15.56.34:935][804]AssetCheck: New page: Asset Save: Level1
+[2022.11.04-15.56.34:935][804]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2022.11.04-15.56.48:930][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.11.04-15.56.49:089][247]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level2.Level2
+[2022.11.04-15.56.49:089][247]Cmd: MAP LOAD FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/Maps/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.04-15.56.49:089][247]LightingResults: New page: Lighting Build
+[2022.11.04-15.56.49:089][247]LoadErrors: New page: Loading map: Level2.umap
+[2022.11.04-15.56.49:093][247]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.11.04-15.56.49:093][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.04-15.56.49:093][247]MapCheck: New page: Map Check
+[2022.11.04-15.56.49:093][247]LightingResults: New page: Lighting Build
+[2022.11.04-15.56.49:137][247]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.04-15.56.49:141][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.11.04-15.56.49:145][247]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2022.11.04-15.56.49:145][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.04-15.56.49:190][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.11.04-15.56.49:232][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.11.04-15.56.49:252][247]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level2'.
+[2022.11.04-15.56.49:252][247]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.04-15.56.49:252][247]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.04-15.56.49:252][247]LogAIModule: Creating AISystem for world Level2
+[2022.11.04-15.56.49:314][247]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.04-15.56.49:357][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.11.04-15.56.49:364][247]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.04-15.56.49:365][247]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.122ms to complete.
+[2022.11.04-15.56.49:365][247]LogFileHelpers: Loading map 'Level2' took 0.276
+[2022.11.04-15.57.03:089][649]Cmd: DELETE
+[2022.11.04-15.57.03:089][649]Cmd: ACTOR DELETE
+[2022.11.04-15.57.03:096][649]LogEditorActor: Deleted Actor: BP_Tile_C
+[2022.11.04-15.57.03:174][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.11.04-15.57.03:184][649]LogEditorActor: Deleted 1 Actors (0.095 secs)
+[2022.11.04-15.57.04:106][676]Cmd: DELETE
+[2022.11.04-15.57.04:106][676]Cmd: ACTOR DELETE
+[2022.11.04-15.57.04:112][676]LogEditorActor: Deleted Actor: BP_Tile_C
+[2022.11.04-15.57.04:192][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.11.04-15.57.04:195][676]LogEditorActor: Deleted 1 Actors (0.088 secs)
+[2022.11.04-15.57.05:079][702]Cmd: DELETE
+[2022.11.04-15.57.05:079][702]Cmd: ACTOR DELETE
+[2022.11.04-15.57.05:086][702]LogEditorActor: Deleted Actor: BP_Tile_C
+[2022.11.04-15.57.05:162][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.11.04-15.57.05:167][702]LogEditorActor: Deleted 1 Actors (0.087 secs)
+[2022.11.04-15.57.05:891][724]Cmd: DELETE
+[2022.11.04-15.57.05:891][724]Cmd: ACTOR DELETE
+[2022.11.04-15.57.05:896][724]LogEditorActor: Deleted Actor: BP_Tile_C
+[2022.11.04-15.57.05:971][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.11.04-15.57.05:974][724]LogEditorActor: Deleted 1 Actors (0.083 secs)
+[2022.11.04-15.57.06:917][753]Cmd: DELETE
+[2022.11.04-15.57.06:917][753]Cmd: ACTOR DELETE
+[2022.11.04-15.57.06:923][753]LogEditorActor: Deleted Actor: BP_Tile_C
+[2022.11.04-15.57.06:998][753]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.11.04-15.57.07:001][753]LogEditorActor: Deleted 1 Actors (0.085 secs)
+[2022.11.04-15.57.08:196][788]Cmd: DELETE
+[2022.11.04-15.57.08:197][788]Cmd: ACTOR DELETE
+[2022.11.04-15.57.08:208][788]LogEditorActor: Deleted Actor: BP_Tile_C
+[2022.11.04-15.57.08:299][788]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.11.04-15.57.08:302][788]LogEditorActor: Deleted 1 Actors (0.105 secs)
+[2022.11.04-15.57.09:135][813]Cmd: DELETE
+[2022.11.04-15.57.09:135][813]Cmd: ACTOR DELETE
+[2022.11.04-15.57.09:142][813]LogEditorActor: Deleted Actor: BP_Tile_C
+[2022.11.04-15.57.09:228][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.11.04-15.57.09:237][813]LogEditorActor: Deleted 1 Actors (0.101 secs)
+[2022.11.04-15.57.10:345][845]Cmd: DELETE
+[2022.11.04-15.57.10:345][845]Cmd: ACTOR DELETE
+[2022.11.04-15.57.10:356][845]LogEditorActor: Deleted Actor: BP_Tile_C
+[2022.11.04-15.57.10:434][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.11.04-15.57.10:440][845]LogEditorActor: Deleted 1 Actors (0.095 secs)
+[2022.11.04-15.57.11:362][872]Cmd: DELETE
+[2022.11.04-15.57.11:362][872]Cmd: ACTOR DELETE
+[2022.11.04-15.57.11:371][872]LogEditorActor: Deleted Actor: BP_Tile_C
+[2022.11.04-15.57.11:448][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.11.04-15.57.11:452][872]LogEditorActor: Deleted 1 Actors (0.090 secs)
+[2022.11.04-15.57.12:357][899]Cmd: DELETE
+[2022.11.04-15.57.12:357][899]Cmd: ACTOR DELETE
+[2022.11.04-15.57.12:362][899]LogEditorActor: Deleted Actor: BP_Tile_C
+[2022.11.04-15.57.12:431][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.11.04-15.57.12:436][899]LogEditorActor: Deleted 1 Actors (0.079 secs)
+[2022.11.04-15.57.16:521][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.11.04-15.57.16:563][ 14]LogSavePackage: Moving output files for package: /Game/Maps/Level2
+[2022.11.04-15.57.16:563][ 14]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Saved/Level2C839C4264C10CACAA4DA3790692D1C13.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/Maps/Level2.umap'
+[2022.11.04-15.57.16:586][ 14]AssetCheck: New page: Asset Save: Level2
+[2022.11.04-15.57.16:586][ 14]LogContentValidation: Display: Validating World /Game/Maps/Level2.Level2
+[2022.11.04-15.57.18:796][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.11.04-15.57.18:933][ 78]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level3.Level3
+[2022.11.04-15.57.18:933][ 78]Cmd: MAP LOAD FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/Maps/Level3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.04-15.57.18:933][ 78]LightingResults: New page: Lighting Build
+[2022.11.04-15.57.18:933][ 78]LoadErrors: New page: Loading map: Level3.umap
+[2022.11.04-15.57.18:936][ 78]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2022.11.04-15.57.18:936][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.04-15.57.18:936][ 78]MapCheck: New page: Map Check
+[2022.11.04-15.57.18:936][ 78]LightingResults: New page: Lighting Build
+[2022.11.04-15.57.18:979][ 78]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.04-15.57.18:984][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.11.04-15.57.18:987][ 78]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2022.11.04-15.57.18:988][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.04-15.57.19:032][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.11.04-15.57.19:071][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.11.04-15.57.19:092][ 78]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level3'.
+[2022.11.04-15.57.19:092][ 78]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.04-15.57.19:092][ 78]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.04-15.57.19:093][ 78]LogAIModule: Creating AISystem for world Level3
+[2022.11.04-15.57.19:162][ 78]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.04-15.57.19:207][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.11.04-15.57.19:214][ 78]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.04-15.57.19:214][ 78]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.142ms to complete.
+[2022.11.04-15.57.19:214][ 78]LogFileHelpers: Loading map 'Level3' took 0.282
+[2022.11.04-15.57.22:957][182]Cmd: DELETE
+[2022.11.04-15.57.22:958][182]Cmd: ACTOR DELETE
+[2022.11.04-15.57.22:963][182]LogEditorActor: Deleted Actor: BP_Tile_C
+[2022.11.04-15.57.23:038][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.11.04-15.57.23:048][182]LogEditorActor: Deleted 1 Actors (0.090 secs)
+[2022.11.04-15.57.25:100][241]Cmd: DELETE
+[2022.11.04-15.57.25:100][241]Cmd: ACTOR DELETE
+[2022.11.04-15.57.25:107][241]LogEditorActor: Deleted Actor: BP_Tile_C
+[2022.11.04-15.57.25:180][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.11.04-15.57.25:185][241]LogEditorActor: Deleted 1 Actors (0.085 secs)
+[2022.11.04-15.57.26:142][269]Cmd: DELETE
+[2022.11.04-15.57.26:142][269]Cmd: ACTOR DELETE
+[2022.11.04-15.57.26:147][269]LogEditorActor: Deleted Actor: BP_Tile_C
+[2022.11.04-15.57.26:218][269]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.11.04-15.57.26:224][269]LogEditorActor: Deleted 1 Actors (0.082 secs)
+[2022.11.04-15.57.27:101][295]Cmd: DELETE
+[2022.11.04-15.57.27:101][295]Cmd: ACTOR DELETE
+[2022.11.04-15.57.27:105][295]LogEditorActor: Deleted Actor: BP_Tile_C
+[2022.11.04-15.57.27:174][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.11.04-15.57.27:177][295]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2022.11.04-15.57.28:279][328]Cmd: DELETE
+[2022.11.04-15.57.28:279][328]Cmd: ACTOR DELETE
+[2022.11.04-15.57.28:290][328]LogEditorActor: Deleted Actor: BP_Tile_C
+[2022.11.04-15.57.28:373][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.11.04-15.57.28:381][328]LogEditorActor: Deleted 1 Actors (0.102 secs)
+[2022.11.04-15.57.29:324][357]Cmd: DELETE
+[2022.11.04-15.57.29:324][357]Cmd: ACTOR DELETE
+[2022.11.04-15.57.29:330][357]LogEditorActor: Deleted Actor: BP_Tile_C
+[2022.11.04-15.57.29:399][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.11.04-15.57.29:404][357]LogEditorActor: Deleted 1 Actors (0.079 secs)
+[2022.11.04-15.57.30:314][384]Cmd: DELETE
+[2022.11.04-15.57.30:314][384]Cmd: ACTOR DELETE
+[2022.11.04-15.57.30:320][384]LogEditorActor: Deleted Actor: BP_Tile_C
+[2022.11.04-15.57.30:391][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.11.04-15.57.30:396][384]LogEditorActor: Deleted 1 Actors (0.081 secs)
+[2022.11.04-15.57.31:446][416]Cmd: DELETE
+[2022.11.04-15.57.31:446][416]Cmd: ACTOR DELETE
+[2022.11.04-15.57.31:452][416]LogEditorActor: Deleted Actor: BP_Tile_C
+[2022.11.04-15.57.31:532][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.11.04-15.57.31:536][416]LogEditorActor: Deleted 1 Actors (0.090 secs)
+[2022.11.04-15.57.32:526][446]Cmd: DELETE
+[2022.11.04-15.57.32:526][446]Cmd: ACTOR DELETE
+[2022.11.04-15.57.32:532][446]LogEditorActor: Deleted Actor: BP_Tile_C
+[2022.11.04-15.57.32:608][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.11.04-15.57.32:611][446]LogEditorActor: Deleted 1 Actors (0.085 secs)
+[2022.11.04-15.57.34:075][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.11.04-15.57.34:119][485]LogSavePackage: Moving output files for package: /Game/Maps/Level3
+[2022.11.04-15.57.34:120][485]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Saved/Level38B2A06CF4DB31CC88A252CA74E7B2958.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/Maps/Level3.umap'
+[2022.11.04-15.57.34:140][485]AssetCheck: New page: Asset Save: Level3
+[2022.11.04-15.57.34:140][485]LogContentValidation: Display: Validating World /Game/Maps/Level3.Level3
+[2022.11.04-15.57.36:902][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.11.04-15.57.37:016][567]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level4.Level4
+[2022.11.04-15.57.37:016][567]Cmd: MAP LOAD FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/Maps/Level4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.04-15.57.37:016][567]LightingResults: New page: Lighting Build
+[2022.11.04-15.57.37:016][567]LoadErrors: New page: Loading map: Level4.umap
+[2022.11.04-15.57.37:019][567]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2022.11.04-15.57.37:020][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.04-15.57.37:020][567]MapCheck: New page: Map Check
+[2022.11.04-15.57.37:020][567]LightingResults: New page: Lighting Build
+[2022.11.04-15.57.37:061][567]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.04-15.57.37:066][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.11.04-15.57.37:069][567]LogWorld: UWorld::CleanupWorld for Level4, bSessionEnded=true, bCleanupResources=true
+[2022.11.04-15.57.37:070][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.04-15.57.37:111][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.11.04-15.57.37:153][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.11.04-15.57.37:171][567]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level4'.
+[2022.11.04-15.57.37:172][567]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.04-15.57.37:172][567]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.04-15.57.37:172][567]LogAIModule: Creating AISystem for world Level4
+[2022.11.04-15.57.37:232][567]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.04-15.57.37:275][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.11.04-15.57.37:282][567]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.04-15.57.37:282][567]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.115ms to complete.
+[2022.11.04-15.57.37:282][567]LogFileHelpers: Loading map 'Level4' took 0.265
+[2022.11.04-15.57.39:976][642]Cmd: DELETE
+[2022.11.04-15.57.39:977][642]Cmd: ACTOR DELETE
+[2022.11.04-15.57.39:984][642]LogEditorActor: Deleted Actor: BP_Tile_C
+[2022.11.04-15.57.40:062][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.11.04-15.57.40:073][642]LogEditorActor: Deleted 1 Actors (0.097 secs)
+[2022.11.04-15.57.41:038][671]Cmd: DELETE
+[2022.11.04-15.57.41:038][671]Cmd: ACTOR DELETE
+[2022.11.04-15.57.41:047][671]LogEditorActor: Deleted Actor: BP_Tile_C
+[2022.11.04-15.57.41:121][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.11.04-15.57.41:127][671]LogEditorActor: Deleted 1 Actors (0.089 secs)
+[2022.11.04-15.57.42:178][702]Cmd: DELETE
+[2022.11.04-15.57.42:178][702]Cmd: ACTOR DELETE
+[2022.11.04-15.57.42:188][702]LogEditorActor: Deleted Actor: BP_Tile_C
+[2022.11.04-15.57.42:266][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.11.04-15.57.42:271][702]LogEditorActor: Deleted 1 Actors (0.093 secs)
+[2022.11.04-15.57.43:196][730]Cmd: DELETE
+[2022.11.04-15.57.43:196][730]Cmd: ACTOR DELETE
+[2022.11.04-15.57.43:202][730]LogEditorActor: Deleted Actor: BP_Tile_C
+[2022.11.04-15.57.43:278][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.11.04-15.57.43:286][730]LogEditorActor: Deleted 1 Actors (0.089 secs)
+[2022.11.04-15.57.47:390][848]Cmd: DELETE
+[2022.11.04-15.57.47:390][848]Cmd: ACTOR DELETE
+[2022.11.04-15.57.47:394][848]LogEditorActor: Deleted Actor: BP_Tile_C
+[2022.11.04-15.57.47:466][848]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.11.04-15.57.47:471][848]LogEditorActor: Deleted 1 Actors (0.081 secs)
+[2022.11.04-15.57.48:730][884]Cmd: DELETE
+[2022.11.04-15.57.48:730][884]Cmd: ACTOR DELETE
+[2022.11.04-15.57.48:738][884]LogEditorActor: Deleted Actor: BP_Tile_C
+[2022.11.04-15.57.48:807][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.11.04-15.57.48:812][884]LogEditorActor: Deleted 1 Actors (0.082 secs)
+[2022.11.04-15.57.49:653][909]Cmd: DELETE
+[2022.11.04-15.57.49:653][909]Cmd: ACTOR DELETE
+[2022.11.04-15.57.49:660][909]LogEditorActor: Deleted Actor: BP_Tile_C
+[2022.11.04-15.57.49:733][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.11.04-15.57.49:738][909]LogEditorActor: Deleted 1 Actors (0.084 secs)
+[2022.11.04-15.57.50:796][943]Cmd: TRANSACTION UNDO
+[2022.11.04-15.57.50:808][943]LogEditorTransaction: Undo Delete Elements
+[2022.11.04-15.57.53:022][999]Cmd: DELETE
+[2022.11.04-15.57.53:022][999]Cmd: ACTOR DELETE
+[2022.11.04-15.57.53:028][999]LogEditorActor: Deleted Actor: BP_Tile_C
+[2022.11.04-15.57.53:102][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.11.04-15.57.53:105][999]LogEditorActor: Deleted 1 Actors (0.084 secs)
+[2022.11.04-15.57.54:057][ 28]Cmd: DELETE
+[2022.11.04-15.57.54:057][ 28]Cmd: ACTOR DELETE
+[2022.11.04-15.57.54:068][ 28]LogEditorActor: Deleted Actor: BP_Tile_C
+[2022.11.04-15.57.54:143][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.11.04-15.57.54:149][ 28]LogEditorActor: Deleted 1 Actors (0.091 secs)
+[2022.11.04-15.57.55:238][ 61]Cmd: DELETE
+[2022.11.04-15.57.55:239][ 61]Cmd: ACTOR DELETE
+[2022.11.04-15.57.55:244][ 61]LogEditorActor: Deleted Actor: BP_Tile_C
+[2022.11.04-15.57.55:315][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.11.04-15.57.55:321][ 61]LogEditorActor: Deleted 1 Actors (0.081 secs)
+[2022.11.04-15.57.56:655][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.11.04-15.57.56:695][ 98]LogSavePackage: Moving output files for package: /Game/Maps/Level4
+[2022.11.04-15.57.56:696][ 98]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Saved/Level43D3842424CA7CF24AFB2B7AD6D46FFF5.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/Maps/Level4.umap'
+[2022.11.04-15.57.56:720][ 98]AssetCheck: New page: Asset Save: Level4
+[2022.11.04-15.57.56:720][ 98]LogContentValidation: Display: Validating World /Game/Maps/Level4.Level4
+[2022.11.04-15.57.58:429][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.11.04-15.57.58:541][148]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level2.Level2
+[2022.11.04-15.57.58:541][148]Cmd: MAP LOAD FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/Maps/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.04-15.57.58:541][148]LightingResults: New page: Lighting Build
+[2022.11.04-15.57.58:541][148]LoadErrors: New page: Loading map: Level2.umap
+[2022.11.04-15.57.58:544][148]LogWorld: UWorld::CleanupWorld for Level4, bSessionEnded=true, bCleanupResources=true
+[2022.11.04-15.57.58:544][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.04-15.57.58:545][148]MapCheck: New page: Map Check
+[2022.11.04-15.57.58:545][148]LightingResults: New page: Lighting Build
+[2022.11.04-15.57.58:584][148]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.04-15.57.58:589][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.11.04-15.57.58:592][148]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2022.11.04-15.57.58:592][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.04-15.57.58:635][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.11.04-15.57.58:675][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.11.04-15.57.58:691][148]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level2'.
+[2022.11.04-15.57.58:691][148]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.04-15.57.58:691][148]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.04-15.57.58:692][148]LogAIModule: Creating AISystem for world Level2
+[2022.11.04-15.57.58:759][148]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.04-15.57.58:800][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.11.04-15.57.58:807][148]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.04-15.57.58:808][148]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.133ms to complete.
+[2022.11.04-15.57.58:808][148]LogFileHelpers: Loading map 'Level2' took 0.267
+[2022.11.04-15.58.05:060][326]Cmd: TRANSACTION UNDO
+[2022.11.04-15.58.05:060][326]LogEditorTransaction: Undo Move Elements
+[2022.11.04-15.58.06:114][351]Cmd: DELETE
+[2022.11.04-15.58.06:114][351]Cmd: ACTOR DELETE
+[2022.11.04-15.58.06:122][351]LogEditorActor: Deleted Actor: BP_Tile_C
+[2022.11.04-15.58.06:196][351]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.11.04-15.58.06:202][351]LogEditorActor: Deleted 1 Actors (0.087 secs)
+[2022.11.04-15.58.10:283][471]Cmd: DELETE
+[2022.11.04-15.58.10:283][471]Cmd: ACTOR DELETE
+[2022.11.04-15.58.10:289][471]LogEditorActor: Deleted Actor: BP_Tile_C
+[2022.11.04-15.58.10:365][471]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.11.04-15.58.10:370][471]LogEditorActor: Deleted 1 Actors (0.087 secs)
+[2022.11.04-15.58.11:340][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.11.04-15.58.11:383][497]LogSavePackage: Moving output files for package: /Game/Maps/Level2
+[2022.11.04-15.58.11:384][497]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Saved/Level297B9C4024FDE6F1AF588EB8041ECEF36.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/Maps/Level2.umap'
+[2022.11.04-15.58.11:407][497]AssetCheck: New page: Asset Save: Level2
+[2022.11.04-15.58.11:407][497]LogContentValidation: Display: Validating World /Game/Maps/Level2.Level2
+[2022.11.04-15.58.12:873][540]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.11.04-15.58.12:979][540]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level1.Level1
+[2022.11.04-15.58.12:979][540]Cmd: MAP LOAD FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.04-15.58.12:979][540]LightingResults: New page: Lighting Build
+[2022.11.04-15.58.12:979][540]LoadErrors: New page: Loading map: Level1.umap
+[2022.11.04-15.58.12:982][540]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2022.11.04-15.58.12:982][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.04-15.58.12:982][540]MapCheck: New page: Map Check
+[2022.11.04-15.58.12:982][540]LightingResults: New page: Lighting Build
+[2022.11.04-15.58.13:022][540]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.04-15.58.13:026][540]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.11.04-15.58.13:030][540]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.11.04-15.58.13:030][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.04-15.58.13:073][540]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.11.04-15.58.13:118][540]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.11.04-15.58.13:137][540]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2022.11.04-15.58.13:137][540]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.04-15.58.13:137][540]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.04-15.58.13:137][540]LogAIModule: Creating AISystem for world Level1
+[2022.11.04-15.58.13:195][540]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.04-15.58.13:237][540]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.11.04-15.58.13:244][540]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.04-15.58.13:244][540]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.113ms to complete.
+[2022.11.04-15.58.13:244][540]LogFileHelpers: Loading map 'Level1' took 0.266
+[2022.11.04-15.58.15:430][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.11.04-15.58.15:687][604]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level0.Level0
+[2022.11.04-15.58.15:687][604]Cmd: MAP LOAD FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/Maps/Level0.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.04-15.58.15:687][604]LightingResults: New page: Lighting Build
+[2022.11.04-15.58.15:687][604]LoadErrors: New page: Loading map: Level0.umap
+[2022.11.04-15.58.15:690][604]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.11.04-15.58.15:690][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.04-15.58.15:691][604]MapCheck: New page: Map Check
+[2022.11.04-15.58.15:691][604]LightingResults: New page: Lighting Build
+[2022.11.04-15.58.15:733][604]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.04-15.58.15:739][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.11.04-15.58.15:745][604]LogWorld: UWorld::CleanupWorld for Level0, bSessionEnded=true, bCleanupResources=true
+[2022.11.04-15.58.15:746][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.04-15.58.15:792][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.11.04-15.58.15:829][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.11.04-15.58.15:873][604]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level0'.
+[2022.11.04-15.58.15:873][604]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.04-15.58.15:873][604]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.04-15.58.15:874][604]LogAIModule: Creating AISystem for world Level0
+[2022.11.04-15.58.16:097][604]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.04-15.58.16:145][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.11.04-15.58.16:152][604]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.04-15.58.16:153][604]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.116ms to complete.
+[2022.11.04-15.58.16:153][604]LogFileHelpers: Loading map 'Level0' took 0.465
+[2022.11.04-15.58.17:887][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.11.04-15.58.17:991][648]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level3.Level3
+[2022.11.04-15.58.17:991][648]Cmd: MAP LOAD FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/Maps/Level3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.04-15.58.17:991][648]LightingResults: New page: Lighting Build
+[2022.11.04-15.58.17:991][648]LoadErrors: New page: Loading map: Level3.umap
+[2022.11.04-15.58.18:000][648]LogWorld: UWorld::CleanupWorld for Level0, bSessionEnded=true, bCleanupResources=true
+[2022.11.04-15.58.18:000][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.04-15.58.18:000][648]MapCheck: New page: Map Check
+[2022.11.04-15.58.18:000][648]LightingResults: New page: Lighting Build
+[2022.11.04-15.58.18:044][648]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.04-15.58.18:054][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.11.04-15.58.18:058][648]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2022.11.04-15.58.18:058][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.04-15.58.18:101][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.11.04-15.58.18:140][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.11.04-15.58.18:159][648]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level3'.
+[2022.11.04-15.58.18:159][648]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.04-15.58.18:159][648]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.04-15.58.18:159][648]LogAIModule: Creating AISystem for world Level3
+[2022.11.04-15.58.18:216][648]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.04-15.58.18:259][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.11.04-15.58.18:266][648]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.04-15.58.18:266][648]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.11ms to complete.
+[2022.11.04-15.58.18:266][648]LogFileHelpers: Loading map 'Level3' took 0.275
+[2022.11.04-15.58.19:759][680]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.11.04-15.58.19:865][680]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level4.Level4
+[2022.11.04-15.58.19:865][680]Cmd: MAP LOAD FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/Maps/Level4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.04-15.58.19:865][680]LightingResults: New page: Lighting Build
+[2022.11.04-15.58.19:865][680]LoadErrors: New page: Loading map: Level4.umap
+[2022.11.04-15.58.19:868][680]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2022.11.04-15.58.19:868][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.04-15.58.19:868][680]MapCheck: New page: Map Check
+[2022.11.04-15.58.19:868][680]LightingResults: New page: Lighting Build
+[2022.11.04-15.58.19:905][680]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.04-15.58.19:910][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.11.04-15.58.19:912][680]LogWorld: UWorld::CleanupWorld for Level4, bSessionEnded=true, bCleanupResources=true
+[2022.11.04-15.58.19:913][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.04-15.58.19:953][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.11.04-15.58.19:990][680]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.11.04-15.58.20:006][680]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level4'.
+[2022.11.04-15.58.20:006][680]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.04-15.58.20:006][680]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.04-15.58.20:007][680]LogAIModule: Creating AISystem for world Level4
+[2022.11.04-15.58.20:063][680]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.04-15.58.20:104][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.11.04-15.58.20:111][680]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.04-15.58.20:111][680]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.107ms to complete.
+[2022.11.04-15.58.20:111][680]LogFileHelpers: Loading map 'Level4' took 0.246
+[2022.11.04-15.58.22:293][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.11.04-15.58.22:338][737]LogSavePackage: Moving output files for package: /Game/Maps/Level4
+[2022.11.04-15.58.22:339][737]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Saved/Level495698FFF41F855718585C8B9945B3454.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/Maps/Level4.umap'
+[2022.11.04-15.58.22:362][737]AssetCheck: New page: Asset Save: Level4
+[2022.11.04-15.58.22:362][737]LogContentValidation: Display: Validating World /Game/Maps/Level4.Level4
+[2022.11.04-15.58.23:924][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.11.04-16.00.05:743][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.11.04-16.00.05:863][408]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/MainMenu.MainMenu
+[2022.11.04-16.00.05:864][408]Cmd: MAP LOAD FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.04-16.00.05:864][408]LightingResults: New page: Lighting Build
+[2022.11.04-16.00.05:864][408]LoadErrors: New page: Loading map: MainMenu.umap
+[2022.11.04-16.00.05:867][408]LogWorld: UWorld::CleanupWorld for Level4, bSessionEnded=true, bCleanupResources=true
+[2022.11.04-16.00.05:867][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.04-16.00.05:868][408]MapCheck: New page: Map Check
+[2022.11.04-16.00.05:868][408]LightingResults: New page: Lighting Build
+[2022.11.04-16.00.05:910][408]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.04-16.00.05:916][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.11.04-16.00.05:920][408]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.11.04-16.00.05:920][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.04-16.00.05:965][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.11.04-16.00.06:007][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.11.04-16.00.06:026][408]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2022.11.04-16.00.06:026][408]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.04-16.00.06:026][408]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.04-16.00.06:027][408]LogAIModule: Creating AISystem for world MainMenu
+[2022.11.04-16.00.06:085][408]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.04-16.00.06:127][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.11.04-16.00.06:135][408]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.04-16.00.06:135][408]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.122ms to complete.
+[2022.11.04-16.00.06:135][408]LogFileHelpers: Loading map 'MainMenu' took 0.271
+[2022.11.04-16.00.09:697][510]Cmd: EDIT COPY
+[2022.11.04-16.00.10:999][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.11.04-16.00.11:121][546]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level4.Level4
+[2022.11.04-16.00.11:121][546]Cmd: MAP LOAD FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/Maps/Level4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.04-16.00.11:121][546]LightingResults: New page: Lighting Build
+[2022.11.04-16.00.11:121][546]LoadErrors: New page: Loading map: Level4.umap
+[2022.11.04-16.00.11:125][546]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.11.04-16.00.11:125][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.04-16.00.11:125][546]MapCheck: New page: Map Check
+[2022.11.04-16.00.11:125][546]LightingResults: New page: Lighting Build
+[2022.11.04-16.00.11:170][546]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.04-16.00.11:176][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.11.04-16.00.11:179][546]LogWorld: UWorld::CleanupWorld for Level4, bSessionEnded=true, bCleanupResources=true
+[2022.11.04-16.00.11:180][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.04-16.00.11:226][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.11.04-16.00.11:269][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.11.04-16.00.11:289][546]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level4'.
+[2022.11.04-16.00.11:289][546]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.04-16.00.11:289][546]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.04-16.00.11:289][546]LogAIModule: Creating AISystem for world Level4
+[2022.11.04-16.00.11:350][546]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.04-16.00.11:392][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.11.04-16.00.11:399][546]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.04-16.00.11:399][546]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.116ms to complete.
+[2022.11.04-16.00.11:399][546]LogFileHelpers: Loading map 'Level4' took 0.278
+[2022.11.04-16.00.12:333][571]Cmd: EDIT PASTE
+[2022.11.04-16.00.15:026][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.11.04-16.00.15:074][642]LogSavePackage: Moving output files for package: /Game/Maps/Level4
+[2022.11.04-16.00.15:074][642]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Saved/Level4BC315C2D444F6882277DAA83F4619AB1.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/Maps/Level4.umap'
+[2022.11.04-16.00.15:099][642]AssetCheck: New page: Asset Save: Level4
+[2022.11.04-16.00.15:099][642]LogContentValidation: Display: Validating World /Game/Maps/Level4.Level4
+[2022.11.04-16.00.43:593][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.11.04-16.00.43:714][444]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/MainMenu.MainMenu
+[2022.11.04-16.00.43:714][444]Cmd: MAP LOAD FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.04-16.00.43:714][444]LightingResults: New page: Lighting Build
+[2022.11.04-16.00.43:714][444]LoadErrors: New page: Loading map: MainMenu.umap
+[2022.11.04-16.00.43:718][444]LogWorld: UWorld::CleanupWorld for Level4, bSessionEnded=true, bCleanupResources=true
+[2022.11.04-16.00.43:718][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.04-16.00.43:718][444]MapCheck: New page: Map Check
+[2022.11.04-16.00.43:718][444]LightingResults: New page: Lighting Build
+[2022.11.04-16.00.43:760][444]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.04-16.00.43:764][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.11.04-16.00.43:767][444]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.11.04-16.00.43:768][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.04-16.00.43:810][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.11.04-16.00.43:848][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.11.04-16.00.43:869][444]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2022.11.04-16.00.43:869][444]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.04-16.00.43:869][444]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.04-16.00.43:869][444]LogAIModule: Creating AISystem for world MainMenu
+[2022.11.04-16.00.43:923][444]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.04-16.00.43:966][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.11.04-16.00.43:973][444]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.04-16.00.43:973][444]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.116ms to complete.
+[2022.11.04-16.00.43:973][444]LogFileHelpers: Loading map 'MainMenu' took 0.260
+[2022.11.04-16.00.50:495][628]Cmd: EDIT COPY
+[2022.11.04-16.00.51:805][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.11.04-16.00.51:917][665]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level4.Level4
+[2022.11.04-16.00.51:917][665]Cmd: MAP LOAD FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/Maps/Level4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.04-16.00.51:917][665]LightingResults: New page: Lighting Build
+[2022.11.04-16.00.51:917][665]LoadErrors: New page: Loading map: Level4.umap
+[2022.11.04-16.00.51:920][665]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.11.04-16.00.51:920][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.04-16.00.51:920][665]MapCheck: New page: Map Check
+[2022.11.04-16.00.51:920][665]LightingResults: New page: Lighting Build
+[2022.11.04-16.00.51:962][665]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.04-16.00.51:966][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.11.04-16.00.51:970][665]LogWorld: UWorld::CleanupWorld for Level4, bSessionEnded=true, bCleanupResources=true
+[2022.11.04-16.00.51:970][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.04-16.00.52:012][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.11.04-16.00.52:052][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.11.04-16.00.52:073][665]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level4'.
+[2022.11.04-16.00.52:073][665]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.04-16.00.52:073][665]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.04-16.00.52:074][665]LogAIModule: Creating AISystem for world Level4
+[2022.11.04-16.00.52:133][665]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.04-16.00.52:175][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.11.04-16.00.52:183][665]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.04-16.00.52:183][665]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.117ms to complete.
+[2022.11.04-16.00.52:183][665]LogFileHelpers: Loading map 'Level4' took 0.266
+[2022.11.04-16.00.53:922][713]Cmd: EDIT PASTE
+[2022.11.04-16.01.33:477][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.11.04-16.01.33:519][695]LogSavePackage: Moving output files for package: /Game/Maps/Level4
+[2022.11.04-16.01.33:519][695]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Saved/Level4744B0A3847AF59570470E69AE3B6609C.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/Maps/Level4.umap'
+[2022.11.04-16.01.33:544][695]AssetCheck: New page: Asset Save: Level4
+[2022.11.04-16.01.33:544][695]LogContentValidation: Display: Validating World /Game/Maps/Level4.Level4
+[2022.11.04-16.01.37:181][796]Cmd: EDIT COPY
+[2022.11.04-16.01.38:268][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.11.04-16.01.38:374][821]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level3.Level3
+[2022.11.04-16.01.38:374][821]Cmd: MAP LOAD FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/Maps/Level3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.04-16.01.38:374][821]LightingResults: New page: Lighting Build
+[2022.11.04-16.01.38:374][821]LoadErrors: New page: Loading map: Level3.umap
+[2022.11.04-16.01.38:377][821]LogWorld: UWorld::CleanupWorld for Level4, bSessionEnded=true, bCleanupResources=true
+[2022.11.04-16.01.38:378][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.04-16.01.38:378][821]MapCheck: New page: Map Check
+[2022.11.04-16.01.38:378][821]LightingResults: New page: Lighting Build
+[2022.11.04-16.01.38:420][821]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.04-16.01.38:424][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.11.04-16.01.38:429][821]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2022.11.04-16.01.38:429][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.04-16.01.38:473][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.11.04-16.01.38:515][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.11.04-16.01.38:533][821]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level3'.
+[2022.11.04-16.01.38:533][821]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.04-16.01.38:533][821]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.04-16.01.38:534][821]LogAIModule: Creating AISystem for world Level3
+[2022.11.04-16.01.38:592][821]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.04-16.01.38:641][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.11.04-16.01.38:648][821]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.04-16.01.38:649][821]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.14ms to complete.
+[2022.11.04-16.01.38:649][821]LogFileHelpers: Loading map 'Level3' took 0.274
+[2022.11.04-16.01.39:904][853]Cmd: EDIT PASTE
+[2022.11.04-16.01.41:379][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.11.04-16.01.41:426][890]LogSavePackage: Moving output files for package: /Game/Maps/Level3
+[2022.11.04-16.01.41:427][890]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Saved/Level3064412EA4947A93B59F58AB2D5E635C8.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/Maps/Level3.umap'
+[2022.11.04-16.01.41:455][890]AssetCheck: New page: Asset Save: Level3
+[2022.11.04-16.01.41:455][890]LogContentValidation: Display: Validating World /Game/Maps/Level3.Level3
+[2022.11.04-16.01.43:455][947]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2022.11.04-16.01.43:567][947]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level2.Level2
+[2022.11.04-16.01.43:567][947]Cmd: MAP LOAD FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/Maps/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.04-16.01.43:567][947]LightingResults: New page: Lighting Build
+[2022.11.04-16.01.43:567][947]LoadErrors: New page: Loading map: Level2.umap
+[2022.11.04-16.01.43:571][947]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2022.11.04-16.01.43:572][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.04-16.01.43:572][947]MapCheck: New page: Map Check
+[2022.11.04-16.01.43:572][947]LightingResults: New page: Lighting Build
+[2022.11.04-16.01.43:623][947]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.04-16.01.43:629][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.11.04-16.01.43:632][947]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2022.11.04-16.01.43:633][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.04-16.01.43:680][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.11.04-16.01.43:725][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.11.04-16.01.43:743][947]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level2'.
+[2022.11.04-16.01.43:743][947]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.04-16.01.43:743][947]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.04-16.01.43:744][947]LogAIModule: Creating AISystem for world Level2
+[2022.11.04-16.01.43:802][947]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.04-16.01.43:846][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.11.04-16.01.43:853][947]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.04-16.01.43:853][947]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.114ms to complete.
+[2022.11.04-16.01.43:854][947]LogFileHelpers: Loading map 'Level2' took 0.287
+[2022.11.04-16.01.44:820][973]Cmd: EDIT PASTE
+[2022.11.04-16.01.45:891][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.11.04-16.01.45:934][997]LogSavePackage: Moving output files for package: /Game/Maps/Level2
+[2022.11.04-16.01.45:934][997]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Saved/Level248873667423C122BF234D0AFEEF824FB.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/Maps/Level2.umap'
+[2022.11.04-16.01.45:956][997]AssetCheck: New page: Asset Save: Level2
+[2022.11.04-16.01.45:956][997]LogContentValidation: Display: Validating World /Game/Maps/Level2.Level2
+[2022.11.04-16.01.46:964][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.11.04-16.01.47:080][ 26]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level1.Level1
+[2022.11.04-16.01.47:080][ 26]Cmd: MAP LOAD FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.04-16.01.47:080][ 26]LightingResults: New page: Lighting Build
+[2022.11.04-16.01.47:080][ 26]LoadErrors: New page: Loading map: Level1.umap
+[2022.11.04-16.01.47:084][ 26]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2022.11.04-16.01.47:084][ 26]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.04-16.01.47:084][ 26]MapCheck: New page: Map Check
+[2022.11.04-16.01.47:084][ 26]LightingResults: New page: Lighting Build
+[2022.11.04-16.01.47:129][ 26]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.04-16.01.47:133][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.11.04-16.01.47:137][ 26]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.11.04-16.01.47:137][ 26]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.04-16.01.47:184][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.11.04-16.01.47:226][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.11.04-16.01.47:245][ 26]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2022.11.04-16.01.47:245][ 26]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.04-16.01.47:245][ 26]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.04-16.01.47:245][ 26]LogAIModule: Creating AISystem for world Level1
+[2022.11.04-16.01.47:301][ 26]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.04-16.01.47:346][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.11.04-16.01.47:355][ 26]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.04-16.01.47:355][ 26]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.132ms to complete.
+[2022.11.04-16.01.47:355][ 26]LogFileHelpers: Loading map 'Level1' took 0.275
+[2022.11.04-16.01.48:287][ 52]Cmd: EDIT PASTE
+[2022.11.04-16.01.49:278][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.11.04-16.01.49:323][ 76]LogSavePackage: Moving output files for package: /Game/Maps/Level1
+[2022.11.04-16.01.49:323][ 76]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Saved/Level18D22B744474399E7EC80FE94015D9F05.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/Maps/Level1.umap'
+[2022.11.04-16.01.49:345][ 76]AssetCheck: New page: Asset Save: Level1
+[2022.11.04-16.01.49:345][ 76]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2022.11.04-16.01.51:141][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.11.04-16.01.51:389][132]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level0.Level0
+[2022.11.04-16.01.51:389][132]Cmd: MAP LOAD FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/Maps/Level0.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.04-16.01.51:389][132]LightingResults: New page: Lighting Build
+[2022.11.04-16.01.51:389][132]LoadErrors: New page: Loading map: Level0.umap
+[2022.11.04-16.01.51:393][132]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.11.04-16.01.51:393][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.04-16.01.51:393][132]MapCheck: New page: Map Check
+[2022.11.04-16.01.51:394][132]LightingResults: New page: Lighting Build
+[2022.11.04-16.01.51:438][132]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.04-16.01.51:443][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.11.04-16.01.51:450][132]LogWorld: UWorld::CleanupWorld for Level0, bSessionEnded=true, bCleanupResources=true
+[2022.11.04-16.01.51:453][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.04-16.01.51:500][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.11.04-16.01.51:542][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.11.04-16.01.51:586][132]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level0'.
+[2022.11.04-16.01.51:586][132]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.04-16.01.51:586][132]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.04-16.01.51:586][132]LogAIModule: Creating AISystem for world Level0
+[2022.11.04-16.01.51:804][132]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.04-16.01.51:855][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.11.04-16.01.51:861][132]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.04-16.01.51:862][132]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.147ms to complete.
+[2022.11.04-16.01.51:862][132]LogFileHelpers: Loading map 'Level0' took 0.472
+[2022.11.04-16.01.53:143][161]Cmd: EDIT PASTE
+[2022.11.04-16.01.54:580][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.11.04-16.01.54:698][195]LogSavePackage: Moving output files for package: /Game/Maps/Level0
+[2022.11.04-16.01.54:699][195]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Saved/Level0C9425B0246CEA8BC1991E8861807731D.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/Maps/Level0.umap'
+[2022.11.04-16.01.54:730][195]AssetCheck: New page: Asset Save: Level0
+[2022.11.04-16.01.54:730][195]LogContentValidation: Display: Validating World /Game/Maps/Level0.Level0
+[2022.11.04-16.01.59:875][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
