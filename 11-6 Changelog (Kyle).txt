@@ -1,0 +1,14 @@
+1. Fixed a bug when selecting a new song in the options menu that was resetting the volume to maximum each time the song was changed.
+2. Fixed a bug where the game did not recognize the completion of any level beyond Level0.
+3. Added difficulty selection to the options menu.
+4. Added several more songs to the options menu and added the appropriate code for handling them.
+5. Added the level select menu to the main menu. Created (and heavily debugged) an addition to the file saving system that checks which levels have been completed and locks unreached stages. 
+6. Streamlined the file saving system a bit and made tons of additions and modifications to correspond with all other changes.
+7. Created a draft of the required README.md file with game controls and a description of how the game works.
+8. Programmed difficulties to be read dynamically from save file.
+9. Added dynamic life system: Easy = 8, Medium = 5, Hard = 3.
+10. Added a score calculation system based on lives remaining (weighted on difficulty) at the end of each level in addition to the existing score pickup system. Scores are calculated at the end of each level and are independent of level-to-level progress. It's a rudimentary system, but eh. Not important.
+11. High scores are now saved to the save file and displayed on the main menu.
+12. Added a button to reset save data on the main menu to default values. This affects options, unlocked levels, etc.
+13. Created win and lose screens and programmed them to be called in place of the placeholder text things.
+14. Performed light testing of all levels and all added functionality.
