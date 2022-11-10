@@ -3191,3 +3191,471 @@ Please see Output Log for details.
 [2022.11.09-23.37.23:852][413]AssetCheck: New page: Asset Save: WinScreen
 [2022.11.09-23.37.23:852][413]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WinScreen.WinScreen
 [2022.11.09-23.37.26:079][501]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.11.09-23.47.43:239][817]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.09-23.47.45:217][984]BlueprintLog: New page: Compile PauseMenu
+[2022.11.09-23.47.45:316][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.11.09-23.47.45:421][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PauseMenu" FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/UI/PauseMenu.uasset" SILENT=true
+[2022.11.09-23.47.45:430][984]LogSavePackage: Moving output files for package: /Game/UI/PauseMenu
+[2022.11.09-23.47.45:431][984]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Saved/PauseMenu81431FB145E985B4A3C9CE92F6BD0B7A.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/UI/PauseMenu.uasset'
+[2022.11.09-23.47.45:449][984]AssetCheck: New page: Asset Save: PauseMenu
+[2022.11.09-23.47.45:449][984]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/PauseMenu.PauseMenu
+[2022.11.09-23.48.02:823][332]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.09-23.48.20:698][833]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.09-23.48.29:741][490]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.09-23.48.31:091][595]BlueprintLog: New page: Compile MainMenu
+[2022.11.09-23.48.31:189][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.11.09-23.48.31:286][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/UI/MainMenu.uasset" SILENT=true
+[2022.11.09-23.48.31:299][595]LogSavePackage: Moving output files for package: /Game/UI/MainMenu
+[2022.11.09-23.48.31:300][595]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Saved/MainMenu390E24CC461CE804F13305926192BF41.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/UI/MainMenu.uasset'
+[2022.11.09-23.48.31:321][595]AssetCheck: New page: Asset Save: MainMenu
+[2022.11.09-23.48.31:321][595]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2022.11.09-23.48.35:713][932]BlueprintLog: New page: Compile LevelSelectMenu
+[2022.11.09-23.48.35:798][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.11.09-23.48.35:904][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/LevelSelectMenu" FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/UI/LevelSelectMenu.uasset" SILENT=true
+[2022.11.09-23.48.35:926][932]LogSavePackage: Moving output files for package: /Game/UI/LevelSelectMenu
+[2022.11.09-23.48.35:927][932]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Saved/LevelSelectMenuADC9656F4B660B0BCDC944B102C360B9.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/UI/LevelSelectMenu.uasset'
+[2022.11.09-23.48.35:950][932]AssetCheck: New page: Asset Save: LevelSelectMenu
+[2022.11.09-23.48.35:950][932]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/LevelSelectMenu.LevelSelectMenu
+[2022.11.09-23.48.52:485][268]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.09-23.48.52:505][268]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.09-23.48.52:505][268]PIE: New page: PIE session: Level4 (Nov 9, 2022, 9:48:52 AM)
+[2022.11.09-23.48.52:506][268]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level4
+[2022.11.09-23.48.52:528][268]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022797s)
+[2022.11.09-23.48.52:528][268]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level4.Level4 to /Game/Maps/UEDPIE_0_Level4.Level4 (0.022937s)
+[2022.11.09-23.48.52:528][268]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.09-23.48.52:528][268]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.09-23.48.52:529][268]LogAIModule: Creating AISystem for world Level4
+[2022.11.09-23.48.52:530][268]LogPlayLevel: PIE: World Init took: (0.001572s)
+[2022.11.09-23.48.52:617][268]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.11.09-23.48.52:619][268]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.11.09-23.48.52:619][268]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.09-23.48.52:619][268]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.09-23.48.52:619][268]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.09-23.48.52:619][268]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.09-23.48.52:619][268]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.09-23.48.52:619][268]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.09-23.48.52:619][268]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.09-23.48.52:619][268]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.09-23.48.52:619][268]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.09-23.48.52:620][268]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.09-23.48.52:620][268]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.09-23.48.52:622][268]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.09-23.48.52:651][268]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2022.11.09-23.48.52:652][268]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.09-23.48.52:652][268]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.09-23.48.52:652][268]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.09-23.48.52:655][268]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2022.11.09-23.48.52:655][268]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2022.11.09-23.48.52:656][268]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2022.11.09-23.48.52:656][268]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2022.11.09-23.48.52:657][268]LogInit: FAudioDevice initialized.
+[2022.11.09-23.48.52:657][268]LogAudio: Display: Audio Device (ID: 15) registered with world 'Level4'.
+[2022.11.09-23.48.52:674][268]LogLoad: Game class is 'GM_BallGame_C'
+[2022.11.09-23.48.52:680][268]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level4.Level4 up for play (max tick rate 0) at 2022.11.09-16.48.52
+[2022.11.09-23.48.52:680][268]LogWorld: Bringing up level for play took: 0.005800
+[2022.11.09-23.48.52:683][268]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2022.11.09-23.48.52:685][268]PIE: Server logged in
+[2022.11.09-23.48.52:686][268]PIE: Play in editor total start time 0.181 seconds.
+[2022.11.09-23.48.54:949][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.09-23.48.54:949][325]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level4
+[2022.11.09-23.48.54:950][325]LogWorld: UWorld::CleanupWorld for Level4, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-23.48.54:951][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-23.48.54:997][325]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.09-23.48.55:015][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-23.48.55:123][325]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.09-23.48.55:124][325]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2022.11.09-23.48.55:126][325]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2022.11.09-23.48.55:171][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.09-23.48.55:177][325]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.11.09-23.48.55:215][326]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2022.11.09-23.48.59:760][495]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.11.09-23.48.59:897][495]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/MainMenu.MainMenu
+[2022.11.09-23.48.59:897][495]Cmd: MAP LOAD FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.09-23.48.59:897][495]LightingResults: New page: Lighting Build
+[2022.11.09-23.48.59:897][495]LoadErrors: New page: Loading map: MainMenu.umap
+[2022.11.09-23.48.59:902][495]LogWorld: UWorld::CleanupWorld for Level4, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-23.48.59:902][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-23.48.59:902][495]MapCheck: New page: Map Check
+[2022.11.09-23.48.59:902][495]LightingResults: New page: Lighting Build
+[2022.11.09-23.48.59:970][495]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.09-23.48.59:975][495]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.11.09-23.48.59:979][495]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-23.48.59:979][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-23.49.00:055][495]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.11.09-23.49.00:133][495]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.11.09-23.49.00:162][495]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2022.11.09-23.49.00:162][495]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.09-23.49.00:162][495]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.09-23.49.00:162][495]LogAIModule: Creating AISystem for world MainMenu
+[2022.11.09-23.49.00:257][495]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.09-23.49.00:327][495]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.11.09-23.49.00:335][495]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.09-23.49.00:335][495]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.134ms to complete.
+[2022.11.09-23.49.00:335][495]LogFileHelpers: Loading map 'MainMenu' took 0.438
+[2022.11.09-23.49.01:737][538]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.09-23.49.01:750][538]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.09-23.49.01:750][538]PIE: New page: PIE session: MainMenu (Nov 9, 2022, 9:49:01 AM)
+[2022.11.09-23.49.01:750][538]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2022.11.09-23.49.01:766][538]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015716s)
+[2022.11.09-23.49.01:766][538]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.015815s)
+[2022.11.09-23.49.01:766][538]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.09-23.49.01:766][538]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.09-23.49.01:766][538]LogAIModule: Creating AISystem for world MainMenu
+[2022.11.09-23.49.01:766][538]LogPlayLevel: PIE: World Init took: (0.000981s)
+[2022.11.09-23.49.01:847][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.11.09-23.49.01:850][538]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.11.09-23.49.01:850][538]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.09-23.49.01:850][538]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.09-23.49.01:850][538]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.09-23.49.01:850][538]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.09-23.49.01:850][538]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.09-23.49.01:850][538]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.09-23.49.01:850][538]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.09-23.49.01:850][538]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.09-23.49.01:851][538]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.09-23.49.01:851][538]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.09-23.49.01:851][538]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.09-23.49.01:853][538]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.09-23.49.01:878][538]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2022.11.09-23.49.01:878][538]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.09-23.49.01:878][538]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.09-23.49.01:878][538]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.09-23.49.01:879][538]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2022.11.09-23.49.01:879][538]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2022.11.09-23.49.01:881][538]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2022.11.09-23.49.01:881][538]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2022.11.09-23.49.01:881][538]LogInit: FAudioDevice initialized.
+[2022.11.09-23.49.01:881][538]LogAudio: Display: Audio Device (ID: 16) registered with world 'MainMenu'.
+[2022.11.09-23.49.01:893][538]LogLoad: Game class is 'GM_BallGame_C'
+[2022.11.09-23.49.01:897][538]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2022.11.09-16.49.01
+[2022.11.09-23.49.01:897][538]LogWorld: Bringing up level for play took: 0.003832
+[2022.11.09-23.49.01:899][538]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2022.11.09-23.49.01:902][538]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.09-23.49.01:902][538]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.11.09-23.49.01:902][538]PIE: Server logged in
+[2022.11.09-23.49.01:903][538]PIE: Play in editor total start time 0.154 seconds.
+[2022.11.09-23.49.07:619][741]LogNet: Browse: /Game/Maps/MainMenu
+[2022.11.09-23.49.07:619][741]LogLoad: LoadMap: /Game/Maps/MainMenu
+[2022.11.09-23.49.07:619][741]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2022.11.09-23.49.07:622][741]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-23.49.07:623][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-23.49.07:749][741]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.09-23.49.07:754][741]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.11.09-23.49.07:757][741]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2022.11.09-23.49.07:773][741]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015485s)
+[2022.11.09-23.49.07:773][741]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.015687s)
+[2022.11.09-23.49.07:773][741]LogAudio: Display: Audio Device (ID: 16) registered with world 'MainMenu'.
+[2022.11.09-23.49.07:773][741]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.09-23.49.07:773][741]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.09-23.49.07:774][741]LogAIModule: Creating AISystem for world MainMenu
+[2022.11.09-23.49.07:774][741]LogPlayLevel: PIE: World Init took: (0.001217s)
+[2022.11.09-23.49.07:774][741]LogLoad: Game class is 'GM_BallGame_C'
+[2022.11.09-23.49.07:777][741]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2022.11.09-16.49.07
+[2022.11.09-23.49.07:778][741]LogWorld: Bringing up level for play took: 0.003772
+[2022.11.09-23.49.07:781][741]LogLoad: Took 0.161923 seconds to LoadMap(/Game/Maps/UEDPIE_0_MainMenu)
+[2022.11.09-23.49.09:687][808]LogNet: Browse: /Game/Maps/MainMenu
+[2022.11.09-23.49.09:687][808]LogLoad: LoadMap: /Game/Maps/MainMenu
+[2022.11.09-23.49.09:687][808]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2022.11.09-23.49.09:688][808]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-23.49.09:690][808]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-23.49.09:821][808]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.09-23.49.09:825][808]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.11.09-23.49.09:828][808]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2022.11.09-23.49.09:840][808]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011494s)
+[2022.11.09-23.49.09:840][808]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.011622s)
+[2022.11.09-23.49.09:840][808]LogAudio: Display: Audio Device (ID: 16) registered with world 'MainMenu'.
+[2022.11.09-23.49.09:840][808]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.09-23.49.09:840][808]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.09-23.49.09:841][808]LogAIModule: Creating AISystem for world MainMenu
+[2022.11.09-23.49.09:841][808]LogPlayLevel: PIE: World Init took: (0.000942s)
+[2022.11.09-23.49.09:841][808]LogLoad: Game class is 'GM_BallGame_C'
+[2022.11.09-23.49.09:843][808]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2022.11.09-16.49.09
+[2022.11.09-23.49.09:843][808]LogWorld: Bringing up level for play took: 0.003012
+[2022.11.09-23.49.09:846][808]LogLoad: Took 0.159732 seconds to LoadMap(/Game/Maps/UEDPIE_0_MainMenu)
+[2022.11.09-23.49.12:958][918]LogNet: Browse: /Game/Maps/MainMenu
+[2022.11.09-23.49.12:958][918]LogLoad: LoadMap: /Game/Maps/MainMenu
+[2022.11.09-23.49.12:958][918]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2022.11.09-23.49.12:959][918]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-23.49.12:960][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-23.49.13:078][918]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.09-23.49.13:082][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.11.09-23.49.13:084][918]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2022.11.09-23.49.13:097][918]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012532s)
+[2022.11.09-23.49.13:097][918]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.012661s)
+[2022.11.09-23.49.13:097][918]LogAudio: Display: Audio Device (ID: 16) registered with world 'MainMenu'.
+[2022.11.09-23.49.13:097][918]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.09-23.49.13:097][918]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.09-23.49.13:098][918]LogAIModule: Creating AISystem for world MainMenu
+[2022.11.09-23.49.13:109][918]LogPlayLevel: PIE: World Init took: (0.012162s)
+[2022.11.09-23.49.13:109][918]LogLoad: Game class is 'GM_BallGame_C'
+[2022.11.09-23.49.13:112][918]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2022.11.09-16.49.13
+[2022.11.09-23.49.13:112][918]LogWorld: Bringing up level for play took: 0.002808
+[2022.11.09-23.49.13:115][918]LogLoad: Took 0.157286 seconds to LoadMap(/Game/Maps/UEDPIE_0_MainMenu)
+[2022.11.09-23.49.14:598][971]LogNet: Browse: /Game/Maps/MainMenu
+[2022.11.09-23.49.14:598][971]LogLoad: LoadMap: /Game/Maps/MainMenu
+[2022.11.09-23.49.14:598][971]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2022.11.09-23.49.14:599][971]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-23.49.14:600][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-23.49.14:716][971]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.09-23.49.14:720][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.11.09-23.49.14:723][971]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2022.11.09-23.49.14:735][971]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012252s)
+[2022.11.09-23.49.14:735][971]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.012418s)
+[2022.11.09-23.49.14:735][971]LogAudio: Display: Audio Device (ID: 16) registered with world 'MainMenu'.
+[2022.11.09-23.49.14:735][971]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.09-23.49.14:735][971]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.09-23.49.14:735][971]LogAIModule: Creating AISystem for world MainMenu
+[2022.11.09-23.49.14:736][971]LogPlayLevel: PIE: World Init took: (0.001003s)
+[2022.11.09-23.49.14:736][971]LogLoad: Game class is 'GM_BallGame_C'
+[2022.11.09-23.49.14:739][971]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2022.11.09-16.49.14
+[2022.11.09-23.49.14:740][971]LogWorld: Bringing up level for play took: 0.003386
+[2022.11.09-23.49.14:742][971]LogLoad: Took 0.143926 seconds to LoadMap(/Game/Maps/UEDPIE_0_MainMenu)
+[2022.11.09-23.49.15:570][  1]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.09-23.49.15:570][  1]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.11.09-23.49.15:575][  1]LogNet: Browse: /Game/Maps/Level3
+[2022.11.09-23.49.15:575][  1]LogLoad: LoadMap: /Game/Maps/Level3
+[2022.11.09-23.49.15:575][  1]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2022.11.09-23.49.15:576][  1]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-23.49.15:578][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-23.49.15:696][  1]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.09-23.49.15:699][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.11.09-23.49.15:743][  1]LogAudio: Display: Audio Device (ID: 16) registered with world 'Level3'.
+[2022.11.09-23.49.15:743][  1]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.09-23.49.15:743][  1]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.09-23.49.15:744][  1]LogAIModule: Creating AISystem for world Level3
+[2022.11.09-23.49.15:744][  1]LogPlayLevel: PIE: World Init took: (0.001138s)
+[2022.11.09-23.49.15:744][  1]LogLoad: Game class is 'GM_BallGame_C'
+[2022.11.09-23.49.15:843][  1]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level3.Level3 up for play (max tick rate 0) at 2022.11.09-16.49.15
+[2022.11.09-23.49.15:843][  1]LogWorld: Bringing up level for play took: 0.099009
+[2022.11.09-23.49.15:847][  1]LogLoad: Took 0.271402 seconds to LoadMap(/Game/Maps/Level3)
+[2022.11.09-23.49.26:698][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.09-23.49.26:698][359]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level3
+[2022.11.09-23.49.26:699][359]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-23.49.26:701][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-23.49.26:728][359]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.09-23.49.26:739][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-23.49.26:818][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.09-23.49.26:819][359]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2022.11.09-23.49.26:820][359]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2022.11.09-23.49.26:833][359]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.11.09-23.49.26:868][360]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2022.11.09-23.49.49:217][756]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.09-23.49.52:979][144]BlueprintLog: New page: Compile MainMenu
+[2022.11.09-23.49.53:056][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.11.09-23.49.53:122][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/UI/MainMenu.uasset" SILENT=true
+[2022.11.09-23.49.53:136][144]LogSavePackage: Moving output files for package: /Game/UI/MainMenu
+[2022.11.09-23.49.53:136][144]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Saved/MainMenuE06B0BCB449035F6320AECBF9A605126.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/UI/MainMenu.uasset'
+[2022.11.09-23.49.53:149][144]AssetCheck: New page: Asset Save: MainMenu
+[2022.11.09-23.49.53:149][144]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2022.11.09-23.50.05:881][131]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.09-23.50.09:056][479]BlueprintLog: New page: Compile PauseMenu
+[2022.11.09-23.50.09:134][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.11.09-23.50.09:204][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PauseMenu" FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/UI/PauseMenu.uasset" SILENT=true
+[2022.11.09-23.50.09:212][479]LogSavePackage: Moving output files for package: /Game/UI/PauseMenu
+[2022.11.09-23.50.09:212][479]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Saved/PauseMenu7E6A5E484B6A294D2A601A890F58B95A.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/UI/PauseMenu.uasset'
+[2022.11.09-23.50.09:222][479]AssetCheck: New page: Asset Save: PauseMenu
+[2022.11.09-23.50.09:222][479]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/PauseMenu.PauseMenu
+[2022.11.09-23.50.14:654][896]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.09-23.50.16:672][ 49]BlueprintLog: New page: Compile LevelSelectMenu
+[2022.11.09-23.50.16:754][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.11.09-23.50.16:836][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/LevelSelectMenu" FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/UI/LevelSelectMenu.uasset" SILENT=true
+[2022.11.09-23.50.16:857][ 49]LogSavePackage: Moving output files for package: /Game/UI/LevelSelectMenu
+[2022.11.09-23.50.16:858][ 49]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Saved/LevelSelectMenu4399F4D84158081023BE93AB1A5B147D.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/UI/LevelSelectMenu.uasset'
+[2022.11.09-23.50.16:878][ 49]AssetCheck: New page: Asset Save: LevelSelectMenu
+[2022.11.09-23.50.16:879][ 49]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/LevelSelectMenu.LevelSelectMenu
+[2022.11.09-23.50.22:358][440]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.09-23.50.24:456][600]BlueprintLog: New page: Compile OptionsMenu
+[2022.11.09-23.50.24:540][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.11.09-23.50.24:656][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/OptionsMenu" FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/UI/OptionsMenu.uasset" SILENT=true
+[2022.11.09-23.50.24:672][600]LogSavePackage: Moving output files for package: /Game/UI/OptionsMenu
+[2022.11.09-23.50.24:672][600]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Saved/OptionsMenu936EA64842492E381407EB9550B87A0D.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/UI/OptionsMenu.uasset'
+[2022.11.09-23.50.24:693][600]AssetCheck: New page: Asset Save: OptionsMenu
+[2022.11.09-23.50.24:693][600]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/OptionsMenu.OptionsMenu
+[2022.11.09-23.50.44:619][144]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.09-23.50.48:010][411]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.09-23.51.04:988][755]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.09-23.51.09:536][223]BlueprintLog: New page: Compile WinScreen
+[2022.11.09-23.51.09:613][223]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.11.09-23.51.09:688][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WinScreen" FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/UI/WinScreen.uasset" SILENT=true
+[2022.11.09-23.51.09:694][223]LogSavePackage: Moving output files for package: /Game/UI/WinScreen
+[2022.11.09-23.51.09:694][223]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Saved/WinScreenFF4B918A461EAADE20FFF8A84254BEB0.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/UI/WinScreen.uasset'
+[2022.11.09-23.51.09:707][223]AssetCheck: New page: Asset Save: WinScreen
+[2022.11.09-23.51.09:707][223]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WinScreen.WinScreen
+[2022.11.09-23.51.23:544][196]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.11.09-23.51.24:117][203]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.11.09-23.51.34:762][109]LogEditorTransaction: Undo Edit Top
+[2022.11.09-23.51.36:170][219]LogEditorTransaction: Redo Edit Top
+[2022.11.09-23.51.48:288][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/LevelSelectMenu" FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/UI/LevelSelectMenu.uasset" SILENT=true
+[2022.11.09-23.51.48:311][299]LogSavePackage: Moving output files for package: /Game/UI/LevelSelectMenu
+[2022.11.09-23.51.48:312][299]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Saved/LevelSelectMenu7FB636274D878C10146340962B4CC6C9.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/UI/LevelSelectMenu.uasset'
+[2022.11.09-23.51.48:326][299]AssetCheck: New page: Asset Save: LevelSelectMenu
+[2022.11.09-23.51.48:326][299]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/LevelSelectMenu.LevelSelectMenu
+[2022.11.09-23.51.49:911][486]BlueprintLog: New page: Compile LevelSelectMenu
+[2022.11.09-23.51.50:018][486]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.11.09-23.52.03:454][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PauseMenu" FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/UI/PauseMenu.uasset" SILENT=true
+[2022.11.09-23.52.03:461][800]LogSavePackage: Moving output files for package: /Game/UI/PauseMenu
+[2022.11.09-23.52.03:462][800]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Saved/PauseMenu55681F4349D835BC68B4CB9FD5D1AA22.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/UI/PauseMenu.uasset'
+[2022.11.09-23.52.03:475][800]AssetCheck: New page: Asset Save: PauseMenu
+[2022.11.09-23.52.03:475][800]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/PauseMenu.PauseMenu
+[2022.11.09-23.52.13:138][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/UI/MainMenu.uasset" SILENT=true
+[2022.11.09-23.52.13:151][669]LogSavePackage: Moving output files for package: /Game/UI/MainMenu
+[2022.11.09-23.52.13:152][669]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Saved/MainMenu90EC03A140AA235A13C03C934D04655D.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/UI/MainMenu.uasset'
+[2022.11.09-23.52.13:165][669]AssetCheck: New page: Asset Save: MainMenu
+[2022.11.09-23.52.13:165][669]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2022.11.09-23.52.14:179][777]BlueprintLog: New page: Compile MainMenu
+[2022.11.09-23.52.14:281][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.11.09-23.52.17:003][ 70]BlueprintLog: New page: Compile PauseMenu
+[2022.11.09-23.52.17:081][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.11.09-23.52.30:997][274]BlueprintLog: New page: Compile OptionsMenu
+[2022.11.09-23.52.31:081][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.11.09-23.52.31:155][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/OptionsMenu" FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/UI/OptionsMenu.uasset" SILENT=true
+[2022.11.09-23.52.31:172][274]LogSavePackage: Moving output files for package: /Game/UI/OptionsMenu
+[2022.11.09-23.52.31:172][274]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Saved/OptionsMenu2A6244A14DB8E8651D703BADE4295D2E.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/UI/OptionsMenu.uasset'
+[2022.11.09-23.52.31:186][274]AssetCheck: New page: Asset Save: OptionsMenu
+[2022.11.09-23.52.31:186][274]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/OptionsMenu.OptionsMenu
+[2022.11.09-23.52.53:612][412]BlueprintLog: New page: Compile WinScreen
+[2022.11.09-23.52.53:697][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.11.09-23.52.53:772][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WinScreen" FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/UI/WinScreen.uasset" SILENT=true
+[2022.11.09-23.52.53:779][412]LogSavePackage: Moving output files for package: /Game/UI/WinScreen
+[2022.11.09-23.52.53:779][412]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Saved/WinScreen0EAB24534C057953E5B6D39D5A9F5667.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/UI/WinScreen.uasset'
+[2022.11.09-23.52.53:795][412]AssetCheck: New page: Asset Save: WinScreen
+[2022.11.09-23.52.53:796][412]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WinScreen.WinScreen
+[2022.11.09-23.53.03:309][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.11.09-23.53.03:347][414]LogSavePackage: Moving output files for package: /Game/Maps/MainMenu
+[2022.11.09-23.53.03:347][414]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Saved/MainMenuB5E128E042990D0429C750B3846BF3A3.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/Maps/MainMenu.umap'
+[2022.11.09-23.53.03:376][414]AssetCheck: New page: Asset Save: MainMenu
+[2022.11.09-23.53.03:376][414]LogContentValidation: Display: Validating World /Game/Maps/MainMenu.MainMenu
+[2022.11.09-23.53.39:055][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.11.09-23.53.39:086][ 57]LogSavePackage: Moving output files for package: /Game/Maps/MainMenu
+[2022.11.09-23.53.39:087][ 57]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Saved/MainMenu3D1938E14A2F4744A88C50A148209892.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/Maps/MainMenu.umap'
+[2022.11.09-23.53.39:113][ 57]AssetCheck: New page: Asset Save: MainMenu
+[2022.11.09-23.53.39:113][ 57]LogContentValidation: Display: Validating World /Game/Maps/MainMenu.MainMenu
+[2022.11.09-23.53.47:051][311]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/LoseScreen.LoseScreen
+[2022.11.09-23.53.47:052][311]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.09-23.53.47:101][311]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.09-23.53.47:443][311]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.09-23.53.47:443][311]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.09-23.53.57:225][294]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.09-23.54.03:112][966]BlueprintLog: New page: Compile LoseScreen
+[2022.11.09-23.54.03:210][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.11.09-23.54.03:272][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/LoseScreen" FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/UI/LoseScreen.uasset" SILENT=true
+[2022.11.09-23.54.03:279][966]LogSavePackage: Moving output files for package: /Game/UI/LoseScreen
+[2022.11.09-23.54.03:280][966]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Saved/LoseScreen0FC7060046345F6967C974BD1797088B.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/UI/LoseScreen.uasset'
+[2022.11.09-23.54.03:293][966]AssetCheck: New page: Asset Save: LoseScreen
+[2022.11.09-23.54.03:293][966]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/LoseScreen.LoseScreen
+[2022.11.09-23.54.05:201][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.11.09-23.54.05:245][ 71]LogSavePackage: Moving output files for package: /Game/Maps/MainMenu
+[2022.11.09-23.54.05:245][ 71]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Saved/MainMenu0369930C49F6AA416F1CE280038CDFB1.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/Maps/MainMenu.umap'
+[2022.11.09-23.54.05:270][ 71]AssetCheck: New page: Asset Save: MainMenu
+[2022.11.09-23.54.05:270][ 71]LogContentValidation: Display: Validating World /Game/Maps/MainMenu.MainMenu
+[2022.11.09-23.54.07:219][184]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-23.54.07:219][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-23.54.07:228][184]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-23.54.07:228][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-23.54.09:172][403]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-23.54.09:172][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-23.54.09:182][403]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-23.54.09:182][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-23.57.54:639][483]LogEditorTransaction: Undo Move Anchor
+[2022.11.09-23.57.55:489][514]LogEditorTransaction: Undo Remove Widget
+[2022.11.09-23.57.56:286][563]LogEditorTransaction: Undo Remove Widget
+[2022.11.10-00.00.51:346][503]LogEditorTransaction: Undo Move Widget
+[2022.11.10-00.01.08:789][215]BlueprintLog: New page: Compile HUD
+[2022.11.10-00.01.08:913][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.11.10-00.01.08:987][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/UI/HUD.uasset" SILENT=true
+[2022.11.10-00.01.08:999][215]LogSavePackage: Moving output files for package: /Game/UI/HUD
+[2022.11.10-00.01.08:999][215]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Saved/HUD1C53B6DA4E4C34EA63A16CAB8B6CD6AA.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/UI/HUD.uasset'
+[2022.11.10-00.01.09:015][215]AssetCheck: New page: Asset Save: HUD
+[2022.11.10-00.01.09:015][215]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/HUD.HUD
+[2022.11.10-00.01.10:551][304]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.11.10-00.01.10:592][304]LogSavePackage: Moving output files for package: /Game/Maps/MainMenu
+[2022.11.10-00.01.10:592][304]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Saved/MainMenuBE8A5B4A4FBCDDFDB81041A16873A108.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/Maps/MainMenu.umap'
+[2022.11.10-00.01.10:615][304]AssetCheck: New page: Asset Save: MainMenu
+[2022.11.10-00.01.10:615][304]LogContentValidation: Display: Validating World /Game/Maps/MainMenu.MainMenu
+[2022.11.10-00.01.59:275][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.11.10-00.01.59:306][636]LogSavePackage: Moving output files for package: /Game/Maps/MainMenu
+[2022.11.10-00.01.59:306][636]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Saved/MainMenu9283A7E74F77D07A192EB4BB4B6B6F95.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/Maps/MainMenu.umap'
+[2022.11.10-00.01.59:330][636]AssetCheck: New page: Asset Save: MainMenu
+[2022.11.10-00.01.59:330][636]LogContentValidation: Display: Validating World /Game/Maps/MainMenu.MainMenu
+[2022.11.10-00.02.20:399][379]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.11.10-00.05.23:936][291]BlueprintLog: New page: Compile HUD
+[2022.11.10-00.05.24:033][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.11.10-00.05.24:105][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/UI/HUD.uasset" SILENT=true
+[2022.11.10-00.05.24:118][291]LogSavePackage: Moving output files for package: /Game/UI/HUD
+[2022.11.10-00.05.24:118][291]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Saved/HUD0B07ED2C4C6B6E6913CE8D9494339238.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/UI/HUD.uasset'
+[2022.11.10-00.05.24:132][291]AssetCheck: New page: Asset Save: HUD
+[2022.11.10-00.05.24:132][291]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/HUD.HUD
+[2022.11.10-00.06.21:647][234]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.10-00.06.21:647][234]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.10-00.06.26:493][725]LogEditorTransaction: Undo Move Node
+[2022.11.10-00.06.26:804][730]LogEditorTransaction: Undo Create Binding
+[2022.11.10-00.06.27:004][733]LogEditorTransaction: Undo Rename Widget
+[2022.11.10-00.06.27:179][734]LogEditorTransaction: Undo Rename Widget
+[2022.11.10-00.06.27:367][743]LogEditorTransaction: Undo Edit Left
+[2022.11.10-00.06.27:560][756]LogEditorTransaction: Undo Edit Left
+[2022.11.10-00.06.27:760][770]LogEditorTransaction: Undo Edit Left
+[2022.11.10-00.06.28:287][823]LogEditorTransaction: Undo Edit Text
+[2022.11.10-00.06.28:460][831]LogEditorTransaction: Undo Edit Top
+[2022.11.10-00.06.28:637][842]LogEditorTransaction: Undo Edit Left
+[2022.11.10-00.06.28:786][850]LogEditorTransaction: Undo Edit Left
+[2022.11.10-00.06.28:986][864]LogEditorTransaction: Undo Changed Anchors
+[2022.11.10-00.06.29:198][879]LogEditorTransaction: Undo Changed Anchors
+[2022.11.10-00.06.29:409][894]LogEditorTransaction: Undo Edit Left
+[2022.11.10-00.06.29:649][912]LogEditorTransaction: Undo Changed Anchors
+[2022.11.10-00.06.29:914][933]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.11.10-00.06.30:178][952]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.11.10-00.06.30:493][967]LogEditorTransaction: Undo Paste clipboard contents
+[2022.11.10-00.06.31:082][ 28]LogEditorTransaction: Undo Edit Top
+[2022.11.10-00.06.32:179][148]LogEditorTransaction: Undo Edit Top
+[2022.11.10-00.06.37:754][785]BlueprintLog: New page: Compile HUD
+[2022.11.10-00.06.37:850][785]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.11.10-00.06.37:921][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/UI/HUD.uasset" SILENT=true
+[2022.11.10-00.06.37:933][785]LogSavePackage: Moving output files for package: /Game/UI/HUD
+[2022.11.10-00.06.37:934][785]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Saved/HUDFE6A1E71487D5605BE0DD6882F74A841.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/UI/HUD.uasset'
+[2022.11.10-00.06.37:947][785]AssetCheck: New page: Asset Save: HUD
+[2022.11.10-00.06.37:947][785]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/HUD.HUD
+[2022.11.10-00.09.10:648][799]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-00.09.10:648][799]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-00.09.10:660][799]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-00.09.10:660][799]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-00.09.16:243][354]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-00.09.16:243][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-00.09.16:252][354]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-00.09.16:252][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-00.09.23:898][249]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-00.09.23:898][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-00.09.23:907][249]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-00.09.23:907][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-00.09.28:266][748]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-00.09.28:266][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-00.09.28:278][748]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-00.09.28:278][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-00.09.35:590][194]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.11.10-00.09.35:630][194]LogSavePackage: Moving output files for package: /Game/Maps/MainMenu
+[2022.11.10-00.09.35:631][194]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Saved/MainMenu017BCC5E482BA1FAEECCD7921C157BF5.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/Maps/MainMenu.umap'
+[2022.11.10-00.09.35:656][194]AssetCheck: New page: Asset Save: MainMenu
+[2022.11.10-00.09.35:656][194]LogContentValidation: Display: Validating World /Game/Maps/MainMenu.MainMenu
+[2022.11.10-00.09.44:960][505]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2022.11.10-00.09.45:072][505]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level1.Level1
+[2022.11.10-00.09.45:072][505]Cmd: MAP LOAD FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/KyleHW1Experiment/Content/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.10-00.09.45:072][505]LightingResults: New page: Lighting Build
+[2022.11.10-00.09.45:072][505]LoadErrors: New page: Loading map: Level1.umap
+[2022.11.10-00.09.45:075][505]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-00.09.45:075][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-00.09.45:075][505]MapCheck: New page: Map Check
+[2022.11.10-00.09.45:075][505]LightingResults: New page: Lighting Build
+[2022.11.10-00.09.45:108][505]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.10-00.09.45:112][505]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.11.10-00.09.45:115][505]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-00.09.45:116][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-00.09.45:148][505]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.11.10-00.09.45:180][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.11.10-00.09.45:200][505]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2022.11.10-00.09.45:200][505]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.10-00.09.45:200][505]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.10-00.09.45:201][505]LogAIModule: Creating AISystem for world Level1
+[2022.11.10-00.09.45:283][505]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.10-00.09.45:315][505]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.11.10-00.09.45:322][505]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.10-00.09.45:322][505]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.114ms to complete.
+[2022.11.10-00.09.45:322][505]LogFileHelpers: Loading map 'Level1' took 0.250
