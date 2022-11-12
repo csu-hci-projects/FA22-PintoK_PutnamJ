@@ -1,9 +1,9 @@
-Nov 9, 2022, 2:41:33 PM
-Level1
+Nov 12, 2022, 5:18:36 AM
+Level0
 Unused
 300
-0.291279
-0.25
+0.187203
+0.15587
 Why We Lose - Cartoon
-1
+2
 11111
