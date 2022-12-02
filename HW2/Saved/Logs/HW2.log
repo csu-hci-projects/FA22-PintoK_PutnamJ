@@ -5086,3 +5086,149 @@ Recommended: 30.0.101.1340
 [2022.12.02-19.16.15:069][102]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Saved/VRTemplateMap762849414F49C5CE997D36B0726BAAA1.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Content/VRTemplate/Maps/VRTemplateMap.umap'
 [2022.12.02-19.16.15:090][102]AssetCheck: New page: Asset Save: VRTemplateMap
 [2022.12.02-19.16.15:090][102]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2022.12.02-19.17.26:904][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.12.02-19.17.26:924][631]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2022.12.02-19.17.26:925][631]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Saved/VRTemplateMap0747DE5D44E54B50C405B28C2AE753E2.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2022.12.02-19.17.26:941][631]AssetCheck: New page: Asset Save: VRTemplateMap
+[2022.12.02-19.17.26:941][631]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2022.12.02-19.17.39:978][930]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/CookbookUI.CookbookUI
+[2022.12.02-19.17.39:992][930]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.02-19.17.40:044][930]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.02-19.17.40:070][930]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2022.12.02-19.17.40:925][930]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.02-19.17.40:925][930]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.02-19.17.41:050][930]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2022.12.02-19.30.34:417][569]LogSlate: Took 0.004058 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.12.02-19.31.21:844][152]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/Recipes.Recipes
+[2022.12.02-19.53.59:310][632]LogDerivedDataCache: C:/Users/joyma/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.051 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.02-20.08.48:900][988]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.02-20.08.48:901][988]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.02-20.19.37:258][920]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2022.12.02-20.19.37:266][920]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.228
+[2022.12.02-20.19.37:268][920]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/CookbookUI] ([2] browsable assets)...
+[2022.12.02-20.19.37:275][920]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/CookbookUI.CookbookUI]
+[2022.12.02-20.19.37:275][920]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/CookbookUI]
+[2022.12.02-20.19.37:275][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/CookbookUI" FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Saved/Autosaves/Game/UI/CookbookUI_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2022.12.02-20.19.37:322][920]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/CookbookUI_Auto4
+[2022.12.02-20.19.37:322][920]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Saved/CookbookUI_Auto4BAB78EB6466D2DFFB598D2A8F8F99819.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Saved/Autosaves/Game/UI/CookbookUI_Auto4.uasset'
+[2022.12.02-20.19.37:324][920]LogFileHelpers: Auto-saving content packages took 0.055
+[2022.12.02-20.19.59:813][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/CookbookUI" FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Content/UI/CookbookUI.uasset" SILENT=true
+[2022.12.02-20.19.59:850][574]LogSavePackage: Moving output files for package: /Game/UI/CookbookUI
+[2022.12.02-20.19.59:851][574]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Saved/CookbookUIAE84D12C48501C2356F2F5B16376EEE8.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Content/UI/CookbookUI.uasset'
+[2022.12.02-20.19.59:868][574]AssetCheck: New page: Asset Save: CookbookUI
+[2022.12.02-20.19.59:868][574]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/CookbookUI.CookbookUI
+[2022.12.02-20.20.40:222][264]BlueprintLog: New page: Compile CookbookUI
+[2022.12.02-20.20.40:328][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.12.02-20.20.40:400][264]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/CookbookUI" FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Content/UI/CookbookUI.uasset" SILENT=true
+[2022.12.02-20.20.40:435][264]LogSavePackage: Moving output files for package: /Game/UI/CookbookUI
+[2022.12.02-20.20.40:436][264]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Saved/CookbookUIEEC3DA994CC833B59AA3CFBE7FBFC0E9.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Content/UI/CookbookUI.uasset'
+[2022.12.02-20.20.40:449][264]AssetCheck: New page: Asset Save: CookbookUI
+[2022.12.02-20.20.40:449][264]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/CookbookUI.CookbookUI
+[2022.12.02-20.20.44:010][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Recipes" FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Content/Blueprints/Recipes.uasset" SILENT=true
+[2022.12.02-20.20.44:012][657]LogSavePackage: Moving output files for package: /Game/Blueprints/Recipes
+[2022.12.02-20.20.44:013][657]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Saved/RecipesF1B3CBED47A94C6CF90DBFBC9EA7DA3E.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Content/Blueprints/Recipes.uasset'
+[2022.12.02-20.20.44:024][657]AssetCheck: New page: Asset Save: Recipes
+[2022.12.02-20.20.44:024][657]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/Recipes.Recipes
+[2022.12.02-20.21.01:643][714]LogSlate: Took 0.000633 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.12.02-20.21.53:827][744]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/GM_Cooking.GM_Cooking
+[2022.12.02-20.21.53:830][744]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.02-20.22.48:707][941]LogViewport: Scene viewport resized to 1141x693, mode Windowed.
+[2022.12.02-20.23.03:142][200]BlueprintLog: New page: Compile GM_Cooking
+[2022.12.02-20.23.03:237][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.12.02-20.23.03:311][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GM_Cooking" FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Content/Blueprints/GM_Cooking.uasset" SILENT=true
+[2022.12.02-20.23.03:326][200]LogSavePackage: Moving output files for package: /Game/Blueprints/GM_Cooking
+[2022.12.02-20.23.03:326][200]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Saved/GM_CookingF5F9C1FD4DE9CB0EDD8C55B5C4BD008C.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Content/Blueprints/GM_Cooking.uasset'
+[2022.12.02-20.23.03:340][200]AssetCheck: New page: Asset Save: GM_Cooking
+[2022.12.02-20.23.03:340][200]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GM_Cooking.GM_Cooking
+[2022.12.02-20.24.02:365][834]BlueprintLog: New page: Compile CookbookUI
+[2022.12.02-20.24.02:467][834]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.12.02-20.24.02:547][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/CookbookUI" FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Content/UI/CookbookUI.uasset" SILENT=true
+[2022.12.02-20.24.02:583][834]LogSavePackage: Moving output files for package: /Game/UI/CookbookUI
+[2022.12.02-20.24.02:584][834]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Saved/CookbookUIE3B280B74ECD0426B18BFBB199596A21.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Content/UI/CookbookUI.uasset'
+[2022.12.02-20.24.02:598][834]AssetCheck: New page: Asset Save: CookbookUI
+[2022.12.02-20.24.02:598][834]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/CookbookUI.CookbookUI
+[2022.12.02-20.29.29:361][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Recipes" FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Content/Blueprints/Recipes.uasset" SILENT=true
+[2022.12.02-20.29.29:362][424]LogSavePackage: Moving output files for package: /Game/Blueprints/Recipes
+[2022.12.02-20.29.29:363][424]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Saved/Recipes90B160E54C8BD7376862EAA1B7DB52D0.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Content/Blueprints/Recipes.uasset'
+[2022.12.02-20.29.29:378][424]AssetCheck: New page: Asset Save: Recipes
+[2022.12.02-20.29.29:378][424]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/Recipes.Recipes
+[2022.12.02-20.29.56:608][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Recipes" FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Content/Blueprints/Recipes.uasset" SILENT=true
+[2022.12.02-20.29.56:610][671]LogSavePackage: Moving output files for package: /Game/Blueprints/Recipes
+[2022.12.02-20.29.56:611][671]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Saved/Recipes12F68F7D4D5C6D1ED23F3092FBDCCF1F.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Content/Blueprints/Recipes.uasset'
+[2022.12.02-20.29.56:623][671]AssetCheck: New page: Asset Save: Recipes
+[2022.12.02-20.29.56:623][671]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/Recipes.Recipes
+[2022.12.02-20.30.20:348][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.12.02-20.30.20:353][205]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.056
+[2022.12.02-20.30.20:354][205]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/GM_Cooking] ([2] browsable assets)...
+[2022.12.02-20.30.20:354][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GM_Cooking]
+[2022.12.02-20.30.20:365][205]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/GM_Cooking_Auto5
+[2022.12.02-20.30.20:365][205]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Saved/GM_Cooking_Auto535000B934A4AF6510E5223AE77461273.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Saved/Autosaves/Game/Blueprints/GM_Cooking_Auto5.uasset'
+[2022.12.02-20.30.20:366][205]LogFileHelpers: Auto-saving content packages took 0.013
+[2022.12.02-20.32.07:212][160]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Recipes" FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Content/Blueprints/Recipes.uasset" SILENT=true
+[2022.12.02-20.32.07:213][160]LogSavePackage: Moving output files for package: /Game/Blueprints/Recipes
+[2022.12.02-20.32.07:214][160]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Saved/RecipesE8BBCA9D432486E085C0CBB6B01C8229.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Content/Blueprints/Recipes.uasset'
+[2022.12.02-20.32.07:228][160]AssetCheck: New page: Asset Save: Recipes
+[2022.12.02-20.32.07:228][160]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/Recipes.Recipes
+[2022.12.02-20.32.28:393][636]BlueprintLog: New page: Compile GM_Cooking
+[2022.12.02-20.32.28:482][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.12.02-20.32.28:562][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GM_Cooking" FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Content/Blueprints/GM_Cooking.uasset" SILENT=true
+[2022.12.02-20.32.28:574][636]LogSavePackage: Moving output files for package: /Game/Blueprints/GM_Cooking
+[2022.12.02-20.32.28:575][636]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Saved/GM_CookingDCE10AC64EDDB185EB21EF9E9353BD27.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Content/Blueprints/GM_Cooking.uasset'
+[2022.12.02-20.32.28:589][636]AssetCheck: New page: Asset Save: GM_Cooking
+[2022.12.02-20.32.28:589][636]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GM_Cooking.GM_Cooking
+[2022.12.02-20.36.22:982][193]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/Recipes.Recipes
+[2022.12.02-20.37.12:844][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Recipes" FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Content/Blueprints/Recipes.uasset" SILENT=true
+[2022.12.02-20.37.12:846][110]LogSavePackage: Moving output files for package: /Game/Blueprints/Recipes
+[2022.12.02-20.37.12:846][110]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Saved/RecipesACF3BB98436523C54CC10D957DF7FF4E.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Content/Blueprints/Recipes.uasset'
+[2022.12.02-20.37.12:859][110]AssetCheck: New page: Asset Save: Recipes
+[2022.12.02-20.37.12:859][110]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/Recipes.Recipes
+[2022.12.02-20.37.46:471][ 68]BlueprintLog: New page: Compile GM_Cooking
+[2022.12.02-20.37.46:551][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.12.02-20.37.46:628][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GM_Cooking" FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Content/Blueprints/GM_Cooking.uasset" SILENT=true
+[2022.12.02-20.37.46:640][ 68]LogSavePackage: Moving output files for package: /Game/Blueprints/GM_Cooking
+[2022.12.02-20.37.46:640][ 68]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Saved/GM_Cooking354327614110FEE5E24C879C5631E519.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Content/Blueprints/GM_Cooking.uasset'
+[2022.12.02-20.37.46:652][ 68]AssetCheck: New page: Asset Save: GM_Cooking
+[2022.12.02-20.37.46:652][ 68]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GM_Cooking.GM_Cooking
+[2022.12.02-20.37.49:308][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Recipes" FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Content/Blueprints/Recipes.uasset" SILENT=true
+[2022.12.02-20.37.49:309][346]LogSavePackage: Moving output files for package: /Game/Blueprints/Recipes
+[2022.12.02-20.37.49:309][346]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Saved/Recipes0C61A3B349665E1446239E9F6154764D.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Content/Blueprints/Recipes.uasset'
+[2022.12.02-20.37.49:321][346]AssetCheck: New page: Asset Save: Recipes
+[2022.12.02-20.37.49:321][346]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/Recipes.Recipes
+[2022.12.02-20.37.51:506][587]BlueprintLog: New page: Compile CookbookUI
+[2022.12.02-20.37.51:598][587]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.12.02-20.37.53:074][674]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.12.02-20.37.53:098][674]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2022.12.02-20.37.53:099][674]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Saved/VRTemplateMapC46D9A2A4A0431E593B3D0B7B1E1CC3B.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2022.12.02-20.37.53:122][674]AssetCheck: New page: Asset Save: VRTemplateMap
+[2022.12.02-20.37.53:122][674]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2022.12.02-20.38.06:112][923]BlueprintLog: New page: Compile GM_Cooking
+[2022.12.02-20.38.06:186][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.12.02-20.38.06:261][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GM_Cooking" FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Content/Blueprints/GM_Cooking.uasset" SILENT=true
+[2022.12.02-20.38.06:272][923]LogSavePackage: Moving output files for package: /Game/Blueprints/GM_Cooking
+[2022.12.02-20.38.06:273][923]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Saved/GM_CookingAB1E5E2C43DC7AE13E06689D728F13AD.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Content/Blueprints/GM_Cooking.uasset'
+[2022.12.02-20.38.06:286][923]AssetCheck: New page: Asset Save: GM_Cooking
+[2022.12.02-20.38.06:286][923]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GM_Cooking.GM_Cooking
+[2022.12.02-20.38.07:210][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GM_Cooking" FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Content/Blueprints/GM_Cooking.uasset" SILENT=true
+[2022.12.02-20.38.07:222][ 23]LogSavePackage: Moving output files for package: /Game/Blueprints/GM_Cooking
+[2022.12.02-20.38.07:222][ 23]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Saved/GM_Cooking8E4D26E74BCE30F8EBD242ACF8737DF4.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Content/Blueprints/GM_Cooking.uasset'
+[2022.12.02-20.38.07:234][ 23]AssetCheck: New page: Asset Save: GM_Cooking
+[2022.12.02-20.38.07:234][ 23]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GM_Cooking.GM_Cooking
+[2022.12.02-20.39.57:068][415]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Ingredient.BP_Ingredient
+[2022.12.02-20.39.57:069][415]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.02-20.40.02:295][900]LogViewport: Scene viewport resized to 1141x691, mode Windowed.
+[2022.12.02-20.41.10:322][984]BlueprintLog: New page: Compile BP_Ingredient
+[2022.12.02-20.41.10:503][984]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2022.12.02-20.41.10:629][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Ingredient" FILE="../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Content/Blueprints/BP_Ingredient.uasset" SILENT=true
+[2022.12.02-20.41.10:637][984]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Ingredient
+[2022.12.02-20.41.10:637][984]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Saved/BP_IngredientE7302F574718B6CFC632BAB3452A92FD.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Content/Blueprints/BP_Ingredient.uasset'
+[2022.12.02-20.41.10:657][984]AssetCheck: New page: Asset Save: BP_Ingredient
+[2022.12.02-20.41.10:657][984]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Ingredient.BP_Ingredient
+[2022.12.02-20.41.51:313][128]Cmd: TRANSACTION UNDO
+[2022.12.02-20.41.51:313][128]LogEditorTransaction: Undo Edit Static Mesh
+[2022.12.02-20.41.53:493][230]BlueprintLog: New page: Compile BP_Ingredient
+[2022.12.02-20.41.53:624][230]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.12.02-20.41.55:824][291]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.12.02-20.41.55:853][291]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2022.12.02-20.41.55:854][291]LogSavePackage: Moving '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Saved/VRTemplateMap980808CB497A2C6BAA9A36AB1BACE3D8.tmp' to '../../../../../../Users/joyma/Documents/GitHub/PintoK_PutnamJ/HW2/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2022.12.02-20.41.55:880][291]AssetCheck: New page: Asset Save: VRTemplateMap
+[2022.12.02-20.41.55:880][291]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
